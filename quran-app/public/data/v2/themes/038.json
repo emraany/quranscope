@@ -1,0 +1,479 @@
+[
+  {
+    "ref": "38:1",
+    "themes": [
+      "Guidance",
+      "Reminder"
+    ]
+  },
+  {
+    "ref": "38:2",
+    "themes": [
+      "Disbelief",
+      "Division",
+      "Pride"
+    ]
+  },
+  {
+    "ref": "38:3",
+    "themes": [
+      "Justice",
+      "Punishment"
+    ]
+  },
+  {
+    "ref": "38:4",
+    "themes": [
+      "Disbelief",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "38:5",
+    "themes": [
+      "Monotheism",
+      "Skepticism"
+    ]
+  },
+  {
+    "ref": "38:8",
+    "themes": [
+      "Doubt",
+      "Punishment",
+      "Revelation"
+    ]
+  },
+  {
+    "ref": "38:9",
+    "themes": [
+      "Authority",
+      "Compassion & Mercy"
+    ]
+  },
+  {
+    "ref": "38:10",
+    "themes": [
+      "Authority",
+      "Challenge",
+      "Dominion"
+    ]
+  },
+  {
+    "ref": "38:12",
+    "themes": [
+      "Historical Lessons",
+      "Prophethood",
+      "Rejection"
+    ]
+  },
+  {
+    "ref": "38:14",
+    "themes": [
+      "Justice",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "38:15",
+    "themes": [
+      "Accountability",
+      "Judgment"
+    ]
+  },
+  {
+    "ref": "38:16",
+    "themes": [
+      "Accountability",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "38:17",
+    "themes": [
+      "Patience",
+      "Prophethood",
+      "Remembrance of God",
+      "Strength"
+    ]
+  },
+  {
+    "ref": "38:18",
+    "themes": [
+      "Creation",
+      "Power",
+      "Praise"
+    ]
+  },
+  {
+    "ref": "38:20",
+    "themes": [
+      "Justice",
+      "Prophethood",
+      "Wisdom"
+    ]
+  },
+  {
+    "ref": "38:22",
+    "themes": [
+      "Guidance",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "38:24",
+    "themes": [
+      "Forgiveness",
+      "Justice",
+      "Repentance"
+    ]
+  },
+  {
+    "ref": "38:25",
+    "themes": [
+      "Compassion & Mercy",
+      "Forgiveness",
+      "Reward"
+    ]
+  },
+  {
+    "ref": "38:26",
+    "themes": [
+      "Accountability",
+      "Guidance",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "38:27",
+    "themes": [
+      "Disbelief",
+      "Justice",
+      "Purpose"
+    ]
+  },
+  {
+    "ref": "38:28",
+    "themes": [
+      "Accountability",
+      "Justice",
+      "Righteousness"
+    ]
+  },
+  {
+    "ref": "38:29",
+    "themes": [
+      "Guidance",
+      "Reflection",
+      "Understanding"
+    ]
+  },
+  {
+    "ref": "38:30",
+    "themes": [
+      "Prophethood",
+      "Repentance",
+      "Servitude"
+    ]
+  },
+  {
+    "ref": "38:32",
+    "themes": [
+      "Distraction",
+      "Remembrance",
+      "Worldly Desires"
+    ]
+  },
+  {
+    "ref": "38:34",
+    "themes": [
+      "Prophethood",
+      "Trials & Tests"
+    ]
+  },
+  {
+    "ref": "38:35",
+    "themes": [
+      "Favor",
+      "Forgiveness",
+      "Kingship"
+    ]
+  },
+  {
+    "ref": "38:36",
+    "themes": [
+      "Control",
+      "Nature",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "38:39",
+    "themes": [
+      "Bounty",
+      "Free Will"
+    ]
+  },
+  {
+    "ref": "38:40",
+    "themes": [
+      "Compassion & Mercy",
+      "Reward"
+    ]
+  },
+  {
+    "ref": "38:41",
+    "themes": [
+      "Assistance",
+      "Patience",
+      "Suffering"
+    ]
+  },
+  {
+    "ref": "38:43",
+    "themes": [
+      "Compassion & Mercy",
+      "Guidance"
+    ]
+  },
+  {
+    "ref": "38:44",
+    "themes": [
+      "Patience",
+      "Repentance",
+      "Servanthood"
+    ]
+  },
+  {
+    "ref": "38:45",
+    "themes": [
+      "Guidance",
+      "Prophethood",
+      "Strength"
+    ]
+  },
+  {
+    "ref": "38:46",
+    "themes": [
+      "Hereafter",
+      "Remembrance"
+    ]
+  },
+  {
+    "ref": "38:47",
+    "themes": [
+      "Chosenness",
+      "Honor"
+    ]
+  },
+  {
+    "ref": "38:48",
+    "themes": [
+      "Excellence",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "38:49",
+    "themes": [
+      "Afterlife",
+      "Reminder",
+      "Righteousness"
+    ]
+  },
+  {
+    "ref": "38:50",
+    "themes": [
+      "Paradise",
+      "Reward"
+    ]
+  },
+  {
+    "ref": "38:52",
+    "themes": [
+      "Blessings",
+      "Companionship"
+    ]
+  },
+  {
+    "ref": "38:53",
+    "themes": [
+      "Accountability",
+      "Promise",
+      "Righteousness"
+    ]
+  },
+  {
+    "ref": "38:54",
+    "themes": [
+      "Provision",
+      "Sustenance"
+    ]
+  },
+  {
+    "ref": "38:55",
+    "themes": [
+      "Accountability",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "38:56",
+    "themes": [
+      "Hellfire",
+      "Punishment"
+    ]
+  },
+  {
+    "ref": "38:59",
+    "themes": [
+      "Justice",
+      "Punishment"
+    ]
+  },
+  {
+    "ref": "38:60",
+    "themes": [
+      "Accountability",
+      "Consequences",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "38:61",
+    "themes": [
+      "Justice",
+      "Punishment"
+    ]
+  },
+  {
+    "ref": "38:62",
+    "themes": [
+      "Accountability",
+      "Judgment"
+    ]
+  },
+  {
+    "ref": "38:65",
+    "themes": [
+      "Monotheism",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "38:66",
+    "themes": [
+      "Compassion & Mercy",
+      "Forgiveness",
+      "Power"
+    ]
+  },
+  {
+    "ref": "38:70",
+    "themes": [
+      "Prophethood",
+      "Warning"
+    ]
+  },
+  {
+    "ref": "38:71",
+    "themes": [
+      "Creation",
+      "Will"
+    ]
+  },
+  {
+    "ref": "38:72",
+    "themes": [
+      "Creation",
+      "Will",
+      "Worship"
+    ]
+  },
+  {
+    "ref": "38:73",
+    "themes": [
+      "Obedience",
+      "Worship"
+    ]
+  },
+  {
+    "ref": "38:74",
+    "themes": [
+      "Arrogance",
+      "Disbelief"
+    ]
+  },
+  {
+    "ref": "38:75",
+    "themes": [
+      "Arrogance",
+      "Creation",
+      "Obedience"
+    ]
+  },
+  {
+    "ref": "38:76",
+    "themes": [
+      "Comparison",
+      "Creation",
+      "Pride"
+    ]
+  },
+  {
+    "ref": "38:78",
+    "themes": [
+      "Accountability",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "38:79",
+    "themes": [
+      "Accountability",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "38:80",
+    "themes": [
+      "Compassion & Mercy",
+      "Forgiveness"
+    ]
+  },
+  {
+    "ref": "38:82",
+    "themes": [
+      "Evil",
+      "Temptation",
+      "Will"
+    ]
+  },
+  {
+    "ref": "38:84",
+    "themes": [
+      "Authority",
+      "Truth"
+    ]
+  },
+  {
+    "ref": "38:85",
+    "themes": [
+      "Justice",
+      "Punishment"
+    ]
+  },
+  {
+    "ref": "38:86",
+    "themes": [
+      "Prophethood",
+      "Sincerity"
+    ]
+  },
+  {
+    "ref": "38:87",
+    "themes": [
+      "Guidance",
+      "Reminder"
+    ]
+  }
+]

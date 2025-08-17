@@ -1,0 +1,625 @@
+[
+  {
+    "ref": "43:1",
+    "surah": 43,
+    "ayah": 1,
+    "arabic": "حمٓ",
+    "english": "Ha, Meem"
+  },
+  {
+    "ref": "43:2",
+    "surah": 43,
+    "ayah": 2,
+    "arabic": "وَٱلۡكِتَٰبِ ٱلۡمُبِينِ",
+    "english": "By the clear Book"
+  },
+  {
+    "ref": "43:3",
+    "surah": 43,
+    "ayah": 3,
+    "arabic": "إِنَّا جَعَلۡنَٰهُ قُرۡءَٰنًا عَرَبِيّٗا لَّعَلَّكُمۡ تَعۡقِلُونَ",
+    "english": "Indeed, We have made it an Arabic Qur'an that you might understand"
+  },
+  {
+    "ref": "43:4",
+    "surah": 43,
+    "ayah": 4,
+    "arabic": "وَإِنَّهُۥ فِيٓ أُمِّ ٱلۡكِتَٰبِ لَدَيۡنَا لَعَلِيٌّ حَكِيمٌ",
+    "english": "And indeed it is, in the Mother of the Book with Us, exalted and full of wisdom"
+  },
+  {
+    "ref": "43:5",
+    "surah": 43,
+    "ayah": 5,
+    "arabic": "أَفَنَضۡرِبُ عَنكُمُ ٱلذِّكۡرَ صَفۡحًا أَن كُنتُمۡ قَوۡمٗا مُّسۡرِفِينَ",
+    "english": "Then should We turn the message away, disregarding you, because you are a transgressing people"
+  },
+  {
+    "ref": "43:6",
+    "surah": 43,
+    "ayah": 6,
+    "arabic": "وَكَمۡ أَرۡسَلۡنَا مِن نَّبِيّٖ فِي ٱلۡأَوَّلِينَ",
+    "english": "And how many a prophet We sent among the former peoples"
+  },
+  {
+    "ref": "43:7",
+    "surah": 43,
+    "ayah": 7,
+    "arabic": "وَمَا يَأۡتِيهِم مِّن نَّبِيٍّ إِلَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
+    "english": "But there would not come to them a prophet except that they used to ridicule him"
+  },
+  {
+    "ref": "43:8",
+    "surah": 43,
+    "ayah": 8,
+    "arabic": "فَأَهۡلَكۡنَآ أَشَدَّ مِنۡهُم بَطۡشٗا وَمَضَىٰ مَثَلُ ٱلۡأَوَّلِينَ",
+    "english": "And We destroyed greater than them in [striking] power, and the example of the former peoples has preceded"
+  },
+  {
+    "ref": "43:9",
+    "surah": 43,
+    "ayah": 9,
+    "arabic": "وَلَئِن سَأَلۡتَهُم مَّنۡ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ لَيَقُولُنَّ خَلَقَهُنَّ ٱلۡعَزِيزُ ٱلۡعَلِيمُ",
+    "english": "And if you should ask them, \"Who has created the heavens and the earth?\" they would surely say, \"They were created by the Exalted in Might, the Knowing"
+  },
+  {
+    "ref": "43:10",
+    "surah": 43,
+    "ayah": 10,
+    "arabic": "ٱلَّذِي جَعَلَ لَكُمُ ٱلۡأَرۡضَ مَهۡدٗا وَجَعَلَ لَكُمۡ فِيهَا سُبُلٗا لَّعَلَّكُمۡ تَهۡتَدُونَ",
+    "english": "[The one] who has made for you the earth a bed and made for you upon it roads that you might be guided"
+  },
+  {
+    "ref": "43:11",
+    "surah": 43,
+    "ayah": 11,
+    "arabic": "وَٱلَّذِي نَزَّلَ مِنَ ٱلسَّمَآءِ مَآءَۢ بِقَدَرٖ فَأَنشَرۡنَا بِهِۦ بَلۡدَةٗ مَّيۡتٗاۚ كَذَٰلِكَ تُخۡرَجُونَ",
+    "english": "And who sends down rain from the sky in measured amounts, and We revive thereby a dead land - thus will you be brought forth"
+  },
+  {
+    "ref": "43:12",
+    "surah": 43,
+    "ayah": 12,
+    "arabic": "وَٱلَّذِي خَلَقَ ٱلۡأَزۡوَٰجَ كُلَّهَا وَجَعَلَ لَكُم مِّنَ ٱلۡفُلۡكِ وَٱلۡأَنۡعَٰمِ مَا تَرۡكَبُونَ",
+    "english": "And who created the species, all of them, and has made for you of ships and animals those which you mount"
+  },
+  {
+    "ref": "43:13",
+    "surah": 43,
+    "ayah": 13,
+    "arabic": "لِتَسۡتَوُۥاْ عَلَىٰ ظُهُورِهِۦ ثُمَّ تَذۡكُرُواْ نِعۡمَةَ رَبِّكُمۡ إِذَا ٱسۡتَوَيۡتُمۡ عَلَيۡهِ وَتَقُولُواْ سُبۡحَٰنَ ٱلَّذِي سَخَّرَ لَنَا هَٰذَا وَمَا كُنَّا لَهُۥ مُقۡرِنِينَ",
+    "english": "That you may settle yourselves upon their backs and then remember the favor of your Lord when you have settled upon them and say. \"Exalted is He who has subjected this to us, and we could not have [otherwise] subdued it"
+  },
+  {
+    "ref": "43:14",
+    "surah": 43,
+    "ayah": 14,
+    "arabic": "وَإِنَّآ إِلَىٰ رَبِّنَا لَمُنقَلِبُونَ",
+    "english": "And indeed we, to our Lord, will [surely] return"
+  },
+  {
+    "ref": "43:15",
+    "surah": 43,
+    "ayah": 15,
+    "arabic": "وَجَعَلُواْ لَهُۥ مِنۡ عِبَادِهِۦ جُزۡءًاۚ إِنَّ ٱلۡإِنسَٰنَ لَكَفُورٞ مُّبِينٌ",
+    "english": "But they have attributed to Him from His servants a portion. Indeed, man is clearly ungrateful"
+  },
+  {
+    "ref": "43:16",
+    "surah": 43,
+    "ayah": 16,
+    "arabic": "أَمِ ٱتَّخَذَ مِمَّا يَخۡلُقُ بَنَاتٖ وَأَصۡفَىٰكُم بِٱلۡبَنِينَ",
+    "english": "Or has He taken, out of what He has created, daughters and chosen you for [having] sons"
+  },
+  {
+    "ref": "43:17",
+    "surah": 43,
+    "ayah": 17,
+    "arabic": "وَإِذَا بُشِّرَ أَحَدُهُم بِمَا ضَرَبَ لِلرَّحۡمَٰنِ مَثَلٗا ظَلَّ وَجۡهُهُۥ مُسۡوَدّٗا وَهُوَ كَظِيمٌ",
+    "english": "And when one of them is given good tidings of that which he attributes to the Most Merciful in comparison, his face becomes dark, and he suppresses grief"
+  },
+  {
+    "ref": "43:18",
+    "surah": 43,
+    "ayah": 18,
+    "arabic": "أَوَمَن يُنَشَّؤُاْ فِي ٱلۡحِلۡيَةِ وَهُوَ فِي ٱلۡخِصَامِ غَيۡرُ مُبِينٖ",
+    "english": "So is one brought up in ornaments while being during conflict unevident [attributed to Allah]"
+  },
+  {
+    "ref": "43:19",
+    "surah": 43,
+    "ayah": 19,
+    "arabic": "وَجَعَلُواْ ٱلۡمَلَـٰٓئِكَةَ ٱلَّذِينَ هُمۡ عِبَٰدُ ٱلرَّحۡمَٰنِ إِنَٰثًاۚ أَشَهِدُواْ خَلۡقَهُمۡۚ سَتُكۡتَبُ شَهَٰدَتُهُمۡ وَيُسۡـَٔلُونَ",
+    "english": "And they have made the angels, who are servants of the Most Merciful, females. Did they witness their creation? Their testimony will be recorded, and they will be questioned"
+  },
+  {
+    "ref": "43:20",
+    "surah": 43,
+    "ayah": 20,
+    "arabic": "وَقَالُواْ لَوۡ شَآءَ ٱلرَّحۡمَٰنُ مَا عَبَدۡنَٰهُمۗ مَّا لَهُم بِذَٰلِكَ مِنۡ عِلۡمٍۖ إِنۡ هُمۡ إِلَّا يَخۡرُصُونَ",
+    "english": "And they said, \"If the Most Merciful had willed, we would not have worshipped them.\" They have of that no knowledge. They are not but falsifying"
+  },
+  {
+    "ref": "43:21",
+    "surah": 43,
+    "ayah": 21,
+    "arabic": "أَمۡ ءَاتَيۡنَٰهُمۡ كِتَٰبٗا مِّن قَبۡلِهِۦ فَهُم بِهِۦ مُسۡتَمۡسِكُونَ",
+    "english": "Or have We given them a book before the Qur'an to which they are adhering"
+  },
+  {
+    "ref": "43:22",
+    "surah": 43,
+    "ayah": 22,
+    "arabic": "بَلۡ قَالُوٓاْ إِنَّا وَجَدۡنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٖ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّهۡتَدُونَ",
+    "english": "Rather, they say, \"Indeed, we found our fathers upon a religion, and we are in their footsteps [rightly] guided"
+  },
+  {
+    "ref": "43:23",
+    "surah": 43,
+    "ayah": 23,
+    "arabic": "وَكَذَٰلِكَ مَآ أَرۡسَلۡنَا مِن قَبۡلِكَ فِي قَرۡيَةٖ مِّن نَّذِيرٍ إِلَّا قَالَ مُتۡرَفُوهَآ إِنَّا وَجَدۡنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٖ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّقۡتَدُونَ",
+    "english": "And similarly, We did not send before you any warner into a city except that its affluent said, \"Indeed, we found our fathers upon a religion, and we are, in their footsteps, following"
+  },
+  {
+    "ref": "43:24",
+    "surah": 43,
+    "ayah": 24,
+    "arabic": "۞قَٰلَ أَوَلَوۡ جِئۡتُكُم بِأَهۡدَىٰ مِمَّا وَجَدتُّمۡ عَلَيۡهِ ءَابَآءَكُمۡۖ قَالُوٓاْ إِنَّا بِمَآ أُرۡسِلۡتُم بِهِۦ كَٰفِرُونَ",
+    "english": "[Each warner] said, \"Even if I brought you better guidance than that [religion] upon which you found your fathers?\" They said, \"Indeed we, in that with which you were sent, are disbelievers"
+  },
+  {
+    "ref": "43:25",
+    "surah": 43,
+    "ayah": 25,
+    "arabic": "فَٱنتَقَمۡنَا مِنۡهُمۡۖ فَٱنظُرۡ كَيۡفَ كَانَ عَٰقِبَةُ ٱلۡمُكَذِّبِينَ",
+    "english": "So we took retribution from them; then see how was the end of the deniers"
+  },
+  {
+    "ref": "43:26",
+    "surah": 43,
+    "ayah": 26,
+    "arabic": "وَإِذۡ قَالَ إِبۡرَٰهِيمُ لِأَبِيهِ وَقَوۡمِهِۦٓ إِنَّنِي بَرَآءٞ مِّمَّا تَعۡبُدُونَ",
+    "english": "And [mention, O Muhammad], when Abraham said to his father and his people, \"Indeed, I am disassociated from that which you worship"
+  },
+  {
+    "ref": "43:27",
+    "surah": 43,
+    "ayah": 27,
+    "arabic": "إِلَّا ٱلَّذِي فَطَرَنِي فَإِنَّهُۥ سَيَهۡدِينِ",
+    "english": "Except for He who created me; and indeed, He will guide me"
+  },
+  {
+    "ref": "43:28",
+    "surah": 43,
+    "ayah": 28,
+    "arabic": "وَجَعَلَهَا كَلِمَةَۢ بَاقِيَةٗ فِي عَقِبِهِۦ لَعَلَّهُمۡ يَرۡجِعُونَ",
+    "english": "And he made it a word remaining among his descendants that they might return [to it]"
+  },
+  {
+    "ref": "43:29",
+    "surah": 43,
+    "ayah": 29,
+    "arabic": "بَلۡ مَتَّعۡتُ هَـٰٓؤُلَآءِ وَءَابَآءَهُمۡ حَتَّىٰ جَآءَهُمُ ٱلۡحَقُّ وَرَسُولٞ مُّبِينٞ",
+    "english": "However, I gave enjoyment to these [people of Makkah] and their fathers until there came to them the truth and a clear Messenger"
+  },
+  {
+    "ref": "43:30",
+    "surah": 43,
+    "ayah": 30,
+    "arabic": "وَلَمَّا جَآءَهُمُ ٱلۡحَقُّ قَالُواْ هَٰذَا سِحۡرٞ وَإِنَّا بِهِۦ كَٰفِرُونَ",
+    "english": "But when the truth came to them, they said, \"This is magic, and indeed we are, concerning it, disbelievers"
+  },
+  {
+    "ref": "43:31",
+    "surah": 43,
+    "ayah": 31,
+    "arabic": "وَقَالُواْ لَوۡلَا نُزِّلَ هَٰذَا ٱلۡقُرۡءَانُ عَلَىٰ رَجُلٖ مِّنَ ٱلۡقَرۡيَتَيۡنِ عَظِيمٍ",
+    "english": "And they said, \"Why was this Qur'an not sent down upon a great man from [one of] the two cities"
+  },
+  {
+    "ref": "43:32",
+    "surah": 43,
+    "ayah": 32,
+    "arabic": "أَهُمۡ يَقۡسِمُونَ رَحۡمَتَ رَبِّكَۚ نَحۡنُ قَسَمۡنَا بَيۡنَهُم مَّعِيشَتَهُمۡ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۚ وَرَفَعۡنَا بَعۡضَهُمۡ فَوۡقَ بَعۡضٖ دَرَجَٰتٖ لِّيَتَّخِذَ بَعۡضُهُم بَعۡضٗا سُخۡرِيّٗاۗ وَرَحۡمَتُ رَبِّكَ خَيۡرٞ مِّمَّا يَجۡمَعُونَ",
+    "english": "Do they distribute the mercy of your Lord? It is We who have apportioned among them their livelihood in the life of this world and have raised some of them above others in degrees [of rank] that they may make use of one another for service. But the mercy of your Lord is better than whatever they accumulate"
+  },
+  {
+    "ref": "43:33",
+    "surah": 43,
+    "ayah": 33,
+    "arabic": "وَلَوۡلَآ أَن يَكُونَ ٱلنَّاسُ أُمَّةٗ وَٰحِدَةٗ لَّجَعَلۡنَا لِمَن يَكۡفُرُ بِٱلرَّحۡمَٰنِ لِبُيُوتِهِمۡ سُقُفٗا مِّن فِضَّةٖ وَمَعَارِجَ عَلَيۡهَا يَظۡهَرُونَ",
+    "english": "And if it were not that the people would become one community [of disbelievers], We would have made for those who disbelieve in the Most Merciful - for their houses - ceilings and stairways of silver upon which to mount"
+  },
+  {
+    "ref": "43:34",
+    "surah": 43,
+    "ayah": 34,
+    "arabic": "وَلِبُيُوتِهِمۡ أَبۡوَٰبٗا وَسُرُرًا عَلَيۡهَا يَتَّكِـُٔونَ",
+    "english": "And for their houses - doors and couches [of silver] upon which to recline"
+  },
+  {
+    "ref": "43:35",
+    "surah": 43,
+    "ayah": 35,
+    "arabic": "وَزُخۡرُفٗاۚ وَإِن كُلُّ ذَٰلِكَ لَمَّا مَتَٰعُ ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۚ وَٱلۡأٓخِرَةُ عِندَ رَبِّكَ لِلۡمُتَّقِينَ",
+    "english": "And gold ornament. But all that is not but the enjoyment of worldly life. And the Hereafter with your Lord is for the righteous"
+  },
+  {
+    "ref": "43:36",
+    "surah": 43,
+    "ayah": 36,
+    "arabic": "وَمَن يَعۡشُ عَن ذِكۡرِ ٱلرَّحۡمَٰنِ نُقَيِّضۡ لَهُۥ شَيۡطَٰنٗا فَهُوَ لَهُۥ قَرِينٞ",
+    "english": "And whoever is blinded from remembrance of the Most Merciful - We appoint for him a devil, and he is to him a companion"
+  },
+  {
+    "ref": "43:37",
+    "surah": 43,
+    "ayah": 37,
+    "arabic": "وَإِنَّهُمۡ لَيَصُدُّونَهُمۡ عَنِ ٱلسَّبِيلِ وَيَحۡسَبُونَ أَنَّهُم مُّهۡتَدُونَ",
+    "english": "And indeed, the devils avert them from the way [of guidance] while they think that they are [rightly] guided"
+  },
+  {
+    "ref": "43:38",
+    "surah": 43,
+    "ayah": 38,
+    "arabic": "حَتَّىٰٓ إِذَا جَآءَنَا قَالَ يَٰلَيۡتَ بَيۡنِي وَبَيۡنَكَ بُعۡدَ ٱلۡمَشۡرِقَيۡنِ فَبِئۡسَ ٱلۡقَرِينُ",
+    "english": "Until, when he comes to Us [at Judgement], he says [to his companion], \"Oh, I wish there was between me and you the distance between the east and west - how wretched a companion"
+  },
+  {
+    "ref": "43:39",
+    "surah": 43,
+    "ayah": 39,
+    "arabic": "وَلَن يَنفَعَكُمُ ٱلۡيَوۡمَ إِذ ظَّلَمۡتُمۡ أَنَّكُمۡ فِي ٱلۡعَذَابِ مُشۡتَرِكُونَ",
+    "english": "And never will it benefit you that Day, when you have wronged, that you are [all] sharing in the punishment"
+  },
+  {
+    "ref": "43:40",
+    "surah": 43,
+    "ayah": 40,
+    "arabic": "أَفَأَنتَ تُسۡمِعُ ٱلصُّمَّ أَوۡ تَهۡدِي ٱلۡعُمۡيَ وَمَن كَانَ فِي ضَلَٰلٖ مُّبِينٖ",
+    "english": "Then will you make the deaf hear, [O Muhammad], or guide the blind or he who is in clear error"
+  },
+  {
+    "ref": "43:41",
+    "surah": 43,
+    "ayah": 41,
+    "arabic": "فَإِمَّا نَذۡهَبَنَّ بِكَ فَإِنَّا مِنۡهُم مُّنتَقِمُونَ",
+    "english": "And whether [or not] We take you away [in death], indeed, We will take retribution upon them"
+  },
+  {
+    "ref": "43:42",
+    "surah": 43,
+    "ayah": 42,
+    "arabic": "أَوۡ نُرِيَنَّكَ ٱلَّذِي وَعَدۡنَٰهُمۡ فَإِنَّا عَلَيۡهِم مُّقۡتَدِرُونَ",
+    "english": "Or whether [or not] We show you that which We have promised them, indeed, We are Perfect in Ability"
+  },
+  {
+    "ref": "43:43",
+    "surah": 43,
+    "ayah": 43,
+    "arabic": "فَٱسۡتَمۡسِكۡ بِٱلَّذِيٓ أُوحِيَ إِلَيۡكَۖ إِنَّكَ عَلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
+    "english": "So adhere to that which is revealed to you. Indeed, you are on a straight path"
+  },
+  {
+    "ref": "43:44",
+    "surah": 43,
+    "ayah": 44,
+    "arabic": "وَإِنَّهُۥ لَذِكۡرٞ لَّكَ وَلِقَوۡمِكَۖ وَسَوۡفَ تُسۡـَٔلُونَ",
+    "english": "And indeed, it is a remembrance for you and your people, and you [all] are going to be questioned"
+  },
+  {
+    "ref": "43:45",
+    "surah": 43,
+    "ayah": 45,
+    "arabic": "وَسۡـَٔلۡ مَنۡ أَرۡسَلۡنَا مِن قَبۡلِكَ مِن رُّسُلِنَآ أَجَعَلۡنَا مِن دُونِ ٱلرَّحۡمَٰنِ ءَالِهَةٗ يُعۡبَدُونَ",
+    "english": "And ask those We sent before you of Our messengers; have We made besides the Most Merciful deities to be worshipped"
+  },
+  {
+    "ref": "43:46",
+    "surah": 43,
+    "ayah": 46,
+    "arabic": "وَلَقَدۡ أَرۡسَلۡنَا مُوسَىٰ بِـَٔايَٰتِنَآ إِلَىٰ فِرۡعَوۡنَ وَمَلَإِيْهِۦ فَقَالَ إِنِّي رَسُولُ رَبِّ ٱلۡعَٰلَمِينَ",
+    "english": "And certainly did We send Moses with Our signs to Pharaoh and his establishment, and he said, \"Indeed, I am the messenger of the Lord of the worlds"
+  },
+  {
+    "ref": "43:47",
+    "surah": 43,
+    "ayah": 47,
+    "arabic": "فَلَمَّا جَآءَهُم بِـَٔايَٰتِنَآ إِذَا هُم مِّنۡهَا يَضۡحَكُونَ",
+    "english": "But when he brought them Our signs, at once they laughed at them"
+  },
+  {
+    "ref": "43:48",
+    "surah": 43,
+    "ayah": 48,
+    "arabic": "وَمَا نُرِيهِم مِّنۡ ءَايَةٍ إِلَّا هِيَ أَكۡبَرُ مِنۡ أُخۡتِهَاۖ وَأَخَذۡنَٰهُم بِٱلۡعَذَابِ لَعَلَّهُمۡ يَرۡجِعُونَ",
+    "english": "And We showed them not a sign except that it was greater than its sister, and We seized them with affliction that perhaps they might return [to faith]"
+  },
+  {
+    "ref": "43:49",
+    "surah": 43,
+    "ayah": 49,
+    "arabic": "وَقَالُواْ يَـٰٓأَيُّهَ ٱلسَّاحِرُ ٱدۡعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ إِنَّنَا لَمُهۡتَدُونَ",
+    "english": "And they said [to Moses], \"O magician, invoke for us your Lord by what He has promised you. Indeed, we will be guided"
+  },
+  {
+    "ref": "43:50",
+    "surah": 43,
+    "ayah": 50,
+    "arabic": "فَلَمَّا كَشَفۡنَا عَنۡهُمُ ٱلۡعَذَابَ إِذَا هُمۡ يَنكُثُونَ",
+    "english": "But when We removed from them the affliction, at once they broke their word"
+  },
+  {
+    "ref": "43:51",
+    "surah": 43,
+    "ayah": 51,
+    "arabic": "وَنَادَىٰ فِرۡعَوۡنُ فِي قَوۡمِهِۦ قَالَ يَٰقَوۡمِ أَلَيۡسَ لِي مُلۡكُ مِصۡرَ وَهَٰذِهِ ٱلۡأَنۡهَٰرُ تَجۡرِي مِن تَحۡتِيٓۚ أَفَلَا تُبۡصِرُونَ",
+    "english": "And Pharaoh called out among his people; he said, \"O my people, does not the kingdom of Egypt belong to me, and these rivers flowing beneath me; then do you not see"
+  },
+  {
+    "ref": "43:52",
+    "surah": 43,
+    "ayah": 52,
+    "arabic": "أَمۡ أَنَا۠ خَيۡرٞ مِّنۡ هَٰذَا ٱلَّذِي هُوَ مَهِينٞ وَلَا يَكَادُ يُبِينُ",
+    "english": "Or am I [not] better than this one who is insignificant and hardly makes himself clear"
+  },
+  {
+    "ref": "43:53",
+    "surah": 43,
+    "ayah": 53,
+    "arabic": "فَلَوۡلَآ أُلۡقِيَ عَلَيۡهِ أَسۡوِرَةٞ مِّن ذَهَبٍ أَوۡ جَآءَ مَعَهُ ٱلۡمَلَـٰٓئِكَةُ مُقۡتَرِنِينَ",
+    "english": "Then why have there not been placed upon him bracelets of gold or come with him the angels in conjunction"
+  },
+  {
+    "ref": "43:54",
+    "surah": 43,
+    "ayah": 54,
+    "arabic": "فَٱسۡتَخَفَّ قَوۡمَهُۥ فَأَطَاعُوهُۚ إِنَّهُمۡ كَانُواْ قَوۡمٗا فَٰسِقِينَ",
+    "english": "So he bluffed his people, and they obeyed him. Indeed, they were [themselves] a people defiantly disobedient [of Allah]"
+  },
+  {
+    "ref": "43:55",
+    "surah": 43,
+    "ayah": 55,
+    "arabic": "فَلَمَّآ ءَاسَفُونَا ٱنتَقَمۡنَا مِنۡهُمۡ فَأَغۡرَقۡنَٰهُمۡ أَجۡمَعِينَ",
+    "english": "And when they angered Us, We took retribution from them and drowned them all"
+  },
+  {
+    "ref": "43:56",
+    "surah": 43,
+    "ayah": 56,
+    "arabic": "فَجَعَلۡنَٰهُمۡ سَلَفٗا وَمَثَلٗا لِّلۡأٓخِرِينَ",
+    "english": "And We made them a precedent and an example for the later peoples"
+  },
+  {
+    "ref": "43:57",
+    "surah": 43,
+    "ayah": 57,
+    "arabic": "۞وَلَمَّا ضُرِبَ ٱبۡنُ مَرۡيَمَ مَثَلًا إِذَا قَوۡمُكَ مِنۡهُ يَصِدُّونَ",
+    "english": "And when the son of Mary was presented as an example, immediately your people laughed aloud"
+  },
+  {
+    "ref": "43:58",
+    "surah": 43,
+    "ayah": 58,
+    "arabic": "وَقَالُوٓاْ ءَأَٰلِهَتُنَا خَيۡرٌ أَمۡ هُوَۚ مَا ضَرَبُوهُ لَكَ إِلَّا جَدَلَۢاۚ بَلۡ هُمۡ قَوۡمٌ خَصِمُونَ",
+    "english": "And they said, \"Are your gods better, or is he?\" They did not present the comparison except for [mere] argument. But, [in fact], they are a people prone to dispute"
+  },
+  {
+    "ref": "43:59",
+    "surah": 43,
+    "ayah": 59,
+    "arabic": "إِنۡ هُوَ إِلَّا عَبۡدٌ أَنۡعَمۡنَا عَلَيۡهِ وَجَعَلۡنَٰهُ مَثَلٗا لِّبَنِيٓ إِسۡرَـٰٓءِيلَ",
+    "english": "Jesus was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel"
+  },
+  {
+    "ref": "43:60",
+    "surah": 43,
+    "ayah": 60,
+    "arabic": "وَلَوۡ نَشَآءُ لَجَعَلۡنَا مِنكُم مَّلَـٰٓئِكَةٗ فِي ٱلۡأَرۡضِ يَخۡلُفُونَ",
+    "english": "And if We willed, We could have made [instead] of you angels succeeding [one another] on the earth"
+  },
+  {
+    "ref": "43:61",
+    "surah": 43,
+    "ayah": 61,
+    "arabic": "وَإِنَّهُۥ لَعِلۡمٞ لِّلسَّاعَةِ فَلَا تَمۡتَرُنَّ بِهَا وَٱتَّبِعُونِۚ هَٰذَا صِرَٰطٞ مُّسۡتَقِيمٞ",
+    "english": "And indeed, Jesus will be [a sign for] knowledge of the Hour, so be not in doubt of it, and follow Me. This is a straight path"
+  },
+  {
+    "ref": "43:62",
+    "surah": 43,
+    "ayah": 62,
+    "arabic": "وَلَا يَصُدَّنَّكُمُ ٱلشَّيۡطَٰنُۖ إِنَّهُۥ لَكُمۡ عَدُوّٞ مُّبِينٞ",
+    "english": "And never let Satan avert you. Indeed, he is to you a clear enemy"
+  },
+  {
+    "ref": "43:63",
+    "surah": 43,
+    "ayah": 63,
+    "arabic": "وَلَمَّا جَآءَ عِيسَىٰ بِٱلۡبَيِّنَٰتِ قَالَ قَدۡ جِئۡتُكُم بِٱلۡحِكۡمَةِ وَلِأُبَيِّنَ لَكُم بَعۡضَ ٱلَّذِي تَخۡتَلِفُونَ فِيهِۖ فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ",
+    "english": "And when Jesus brought clear proofs, he said, \"I have come to you with wisdom and to make clear to you some of that over which you differ, so fear Allah and obey me"
+  },
+  {
+    "ref": "43:64",
+    "surah": 43,
+    "ayah": 64,
+    "arabic": "إِنَّ ٱللَّهَ هُوَ رَبِّي وَرَبُّكُمۡ فَٱعۡبُدُوهُۚ هَٰذَا صِرَٰطٞ مُّسۡتَقِيمٞ",
+    "english": "Indeed, Allah is my Lord and your Lord, so worship Him. This is a straight path"
+  },
+  {
+    "ref": "43:65",
+    "surah": 43,
+    "ayah": 65,
+    "arabic": "فَٱخۡتَلَفَ ٱلۡأَحۡزَابُ مِنۢ بَيۡنِهِمۡۖ فَوَيۡلٞ لِّلَّذِينَ ظَلَمُواْ مِنۡ عَذَابِ يَوۡمٍ أَلِيمٍ",
+    "english": "But the denominations from among them differed [and separated], so woe to those who have wronged from the punishment of a painful Day"
+  },
+  {
+    "ref": "43:66",
+    "surah": 43,
+    "ayah": 66,
+    "arabic": "هَلۡ يَنظُرُونَ إِلَّا ٱلسَّاعَةَ أَن تَأۡتِيَهُم بَغۡتَةٗ وَهُمۡ لَا يَشۡعُرُونَ",
+    "english": "Are they waiting except for the Hour to come upon them suddenly while they perceive not"
+  },
+  {
+    "ref": "43:67",
+    "surah": 43,
+    "ayah": 67,
+    "arabic": "ٱلۡأَخِلَّآءُ يَوۡمَئِذِۭ بَعۡضُهُمۡ لِبَعۡضٍ عَدُوٌّ إِلَّا ٱلۡمُتَّقِينَ",
+    "english": "Close friends, that Day, will be enemies to each other, except for the righteous"
+  },
+  {
+    "ref": "43:68",
+    "surah": 43,
+    "ayah": 68,
+    "arabic": "يَٰعِبَادِ لَا خَوۡفٌ عَلَيۡكُمُ ٱلۡيَوۡمَ وَلَآ أَنتُمۡ تَحۡزَنُونَ",
+    "english": "[To whom Allah will say], \"O My servants, no fear will there be concerning you this Day, nor will you grieve"
+  },
+  {
+    "ref": "43:69",
+    "surah": 43,
+    "ayah": 69,
+    "arabic": "ٱلَّذِينَ ءَامَنُواْ بِـَٔايَٰتِنَا وَكَانُواْ مُسۡلِمِينَ",
+    "english": "[You] who believed in Our verses and were Muslims"
+  },
+  {
+    "ref": "43:70",
+    "surah": 43,
+    "ayah": 70,
+    "arabic": "ٱدۡخُلُواْ ٱلۡجَنَّةَ أَنتُمۡ وَأَزۡوَٰجُكُمۡ تُحۡبَرُونَ",
+    "english": "Enter Paradise, you and your kinds, delighted"
+  },
+  {
+    "ref": "43:71",
+    "surah": 43,
+    "ayah": 71,
+    "arabic": "يُطَافُ عَلَيۡهِم بِصِحَافٖ مِّن ذَهَبٖ وَأَكۡوَابٖۖ وَفِيهَا مَا تَشۡتَهِيهِ ٱلۡأَنفُسُ وَتَلَذُّ ٱلۡأَعۡيُنُۖ وَأَنتُمۡ فِيهَا خَٰلِدُونَ",
+    "english": "Circulated among them will be plates and vessels of gold. And therein is whatever the souls desire and [what] delights the eyes, and you will abide therein eternally"
+  },
+  {
+    "ref": "43:72",
+    "surah": 43,
+    "ayah": 72,
+    "arabic": "وَتِلۡكَ ٱلۡجَنَّةُ ٱلَّتِيٓ أُورِثۡتُمُوهَا بِمَا كُنتُمۡ تَعۡمَلُونَ",
+    "english": "And that is Paradise which you are made to inherit for what you used to do"
+  },
+  {
+    "ref": "43:73",
+    "surah": 43,
+    "ayah": 73,
+    "arabic": "لَكُمۡ فِيهَا فَٰكِهَةٞ كَثِيرَةٞ مِّنۡهَا تَأۡكُلُونَ",
+    "english": "For you therein is much fruit from which you will eat"
+  },
+  {
+    "ref": "43:74",
+    "surah": 43,
+    "ayah": 74,
+    "arabic": "إِنَّ ٱلۡمُجۡرِمِينَ فِي عَذَابِ جَهَنَّمَ خَٰلِدُونَ",
+    "english": "Indeed, the criminals will be in the punishment of Hell, abiding eternally"
+  },
+  {
+    "ref": "43:75",
+    "surah": 43,
+    "ayah": 75,
+    "arabic": "لَا يُفَتَّرُ عَنۡهُمۡ وَهُمۡ فِيهِ مُبۡلِسُونَ",
+    "english": "It will not be allowed to subside for them, and they, therein, are in despair"
+  },
+  {
+    "ref": "43:76",
+    "surah": 43,
+    "ayah": 76,
+    "arabic": "وَمَا ظَلَمۡنَٰهُمۡ وَلَٰكِن كَانُواْ هُمُ ٱلظَّـٰلِمِينَ",
+    "english": "And We did not wrong them, but it was they who were the wrongdoers"
+  },
+  {
+    "ref": "43:77",
+    "surah": 43,
+    "ayah": 77,
+    "arabic": "وَنَادَوۡاْ يَٰمَٰلِكُ لِيَقۡضِ عَلَيۡنَا رَبُّكَۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+    "english": "And they will call, \"O Malik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain"
+  },
+  {
+    "ref": "43:78",
+    "surah": 43,
+    "ayah": 78,
+    "arabic": "لَقَدۡ جِئۡنَٰكُم بِٱلۡحَقِّ وَلَٰكِنَّ أَكۡثَرَكُمۡ لِلۡحَقِّ كَٰرِهُونَ",
+    "english": "We had certainly brought you the truth, but most of you, to the truth, were averse"
+  },
+  {
+    "ref": "43:79",
+    "surah": 43,
+    "ayah": 79,
+    "arabic": "أَمۡ أَبۡرَمُوٓاْ أَمۡرٗا فَإِنَّا مُبۡرِمُونَ",
+    "english": "Or have they devised [some] affair? But indeed, We are devising [a plan]"
+  },
+  {
+    "ref": "43:80",
+    "surah": 43,
+    "ayah": 80,
+    "arabic": "أَمۡ يَحۡسَبُونَ أَنَّا لَا نَسۡمَعُ سِرَّهُمۡ وَنَجۡوَىٰهُمۚ بَلَىٰ وَرُسُلُنَا لَدَيۡهِمۡ يَكۡتُبُونَ",
+    "english": "Or do they think that We hear not their secrets and their private conversations? Yes, [We do], and Our messengers are with them recording"
+  },
+  {
+    "ref": "43:81",
+    "surah": 43,
+    "ayah": 81,
+    "arabic": "قُلۡ إِن كَانَ لِلرَّحۡمَٰنِ وَلَدٞ فَأَنَا۠ أَوَّلُ ٱلۡعَٰبِدِينَ",
+    "english": "Say, [O Muhammad], \"If the Most Merciful had a son, then I would be the first of [his] worshippers"
+  },
+  {
+    "ref": "43:82",
+    "surah": 43,
+    "ayah": 82,
+    "arabic": "سُبۡحَٰنَ رَبِّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ رَبِّ ٱلۡعَرۡشِ عَمَّا يَصِفُونَ",
+    "english": "Exalted is the Lord of the heavens and the earth, Lord of the Throne, above what they describe"
+  },
+  {
+    "ref": "43:83",
+    "surah": 43,
+    "ayah": 83,
+    "arabic": "فَذَرۡهُمۡ يَخُوضُواْ وَيَلۡعَبُواْ حَتَّىٰ يُلَٰقُواْ يَوۡمَهُمُ ٱلَّذِي يُوعَدُونَ",
+    "english": "So leave them to converse vainly and amuse themselves until they meet their Day which they are promised"
+  },
+  {
+    "ref": "43:84",
+    "surah": 43,
+    "ayah": 84,
+    "arabic": "وَهُوَ ٱلَّذِي فِي ٱلسَّمَآءِ إِلَٰهٞ وَفِي ٱلۡأَرۡضِ إِلَٰهٞۚ وَهُوَ ٱلۡحَكِيمُ ٱلۡعَلِيمُ",
+    "english": "And it is Allah who is [the only] deity in the heaven, and on the earth [the only] deity. And He is the Wise, the Knowing"
+  },
+  {
+    "ref": "43:85",
+    "surah": 43,
+    "ayah": 85,
+    "arabic": "وَتَبَارَكَ ٱلَّذِي لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَا وَعِندَهُۥ عِلۡمُ ٱلسَّاعَةِ وَإِلَيۡهِ تُرۡجَعُونَ",
+    "english": "And blessed is He to whom belongs the dominion of the heavens and the earth and whatever is between them and with whom is knowledge of the Hour and to whom you will be returned"
+  },
+  {
+    "ref": "43:86",
+    "surah": 43,
+    "ayah": 86,
+    "arabic": "وَلَا يَمۡلِكُ ٱلَّذِينَ يَدۡعُونَ مِن دُونِهِ ٱلشَّفَٰعَةَ إِلَّا مَن شَهِدَ بِٱلۡحَقِّ وَهُمۡ يَعۡلَمُونَ",
+    "english": "And those they invoke besides Him do not possess [power of] intercession; but only those who testify to the truth [can benefit], and they know"
+  },
+  {
+    "ref": "43:87",
+    "surah": 43,
+    "ayah": 87,
+    "arabic": "وَلَئِن سَأَلۡتَهُم مَّنۡ خَلَقَهُمۡ لَيَقُولُنَّ ٱللَّهُۖ فَأَنَّىٰ يُؤۡفَكُونَ",
+    "english": "And if you asked them who created them, they would surely say, \"Allah.\" So how are they deluded"
+  },
+  {
+    "ref": "43:88",
+    "surah": 43,
+    "ayah": 88,
+    "arabic": "وَقِيلِهِۦ يَٰرَبِّ إِنَّ هَـٰٓؤُلَآءِ قَوۡمٞ لَّا يُؤۡمِنُونَ",
+    "english": "And [Allah acknowledges] his saying, \"O my Lord, indeed these are a people who do not believe"
+  },
+  {
+    "ref": "43:89",
+    "surah": 43,
+    "ayah": 89,
+    "arabic": "فَٱصۡفَحۡ عَنۡهُمۡ وَقُلۡ سَلَٰمٞۚ فَسَوۡفَ يَعۡلَمُونَ",
+    "english": "So turn aside from them and say, \"Peace.\" But they are going to know"
+  }
+]

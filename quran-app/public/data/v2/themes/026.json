@@ -1,0 +1,924 @@
+[
+  {
+    "ref": "26:3",
+    "themes": [
+      "Grief",
+      "Guidance",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "26:4",
+    "themes": [
+      "Humility",
+      "Signs",
+      "Will"
+    ]
+  },
+  {
+    "ref": "26:5",
+    "themes": [
+      "Compassion & Mercy",
+      "Rejection",
+      "Revelation"
+    ]
+  },
+  {
+    "ref": "26:6",
+    "themes": [
+      "Justice",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "26:7",
+    "themes": [
+      "Creation",
+      "Reflection",
+      "Signs of God"
+    ]
+  },
+  {
+    "ref": "26:8",
+    "themes": [
+      "Disbelief",
+      "Signs of God"
+    ]
+  },
+  {
+    "ref": "26:9",
+    "themes": [
+      "Compassion & Mercy",
+      "Might"
+    ]
+  },
+  {
+    "ref": "26:10",
+    "themes": [
+      "Justice",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "26:11",
+    "themes": [
+      "Accountability",
+      "Fear of God"
+    ]
+  },
+  {
+    "ref": "26:12",
+    "themes": [
+      "Fear",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "26:13",
+    "themes": [
+      "Prophethood",
+      "Support"
+    ]
+  },
+  {
+    "ref": "26:15",
+    "themes": [
+      "Guidance",
+      "Support"
+    ]
+  },
+  {
+    "ref": "26:16",
+    "themes": [
+      "Guidance",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "26:21",
+    "themes": [
+      "Guidance",
+      "Prophethood",
+      "Wisdom"
+    ]
+  },
+  {
+    "ref": "26:22",
+    "themes": [
+      "Justice",
+      "Oppression"
+    ]
+  },
+  {
+    "ref": "26:24",
+    "themes": [
+      "Authority",
+      "Guidance",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "26:27",
+    "themes": [
+      "Prophethood",
+      "Rejection"
+    ]
+  },
+  {
+    "ref": "26:28",
+    "themes": [
+      "Prophethood",
+      "Sovereignty"
+    ]
+  },
+  {
+    "ref": "26:29",
+    "themes": [
+      "Authority",
+      "Idolatry",
+      "Oppression"
+    ]
+  },
+  {
+    "ref": "26:30",
+    "themes": [
+      "Guidance",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "26:32",
+    "themes": [
+      "Miracles",
+      "Power",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "26:41",
+    "themes": [
+      "Justice",
+      "Reward"
+    ]
+  },
+  {
+    "ref": "26:45",
+    "themes": [
+      "Miracles",
+      "Prophethood",
+      "Truth"
+    ]
+  },
+  {
+    "ref": "26:46",
+    "themes": [
+      "Submission",
+      "Worship"
+    ]
+  },
+  {
+    "ref": "26:47",
+    "themes": [
+      "Faith",
+      "Lordship"
+    ]
+  },
+  {
+    "ref": "26:48",
+    "themes": [
+      "Guidance",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "26:49",
+    "themes": [
+      "Justice",
+      "Oppression",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "26:50",
+    "themes": [
+      "Afterlife",
+      "Faith",
+      "Trust in God"
+    ]
+  },
+  {
+    "ref": "26:51",
+    "themes": [
+      "Faith",
+      "Forgiveness"
+    ]
+  },
+  {
+    "ref": "26:52",
+    "themes": [
+      "Guidance",
+      "Prophethood",
+      "Support"
+    ]
+  },
+  {
+    "ref": "26:59",
+    "themes": [
+      "Inheritance",
+      "Prophethood",
+      "Will"
+    ]
+  },
+  {
+    "ref": "26:61",
+    "themes": [
+      "Assistance",
+      "Faith",
+      "Fear"
+    ]
+  },
+  {
+    "ref": "26:62",
+    "themes": [
+      "Guidance",
+      "Trust in God"
+    ]
+  },
+  {
+    "ref": "26:63",
+    "themes": [
+      "Intervention",
+      "Miracles",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "26:65",
+    "themes": [
+      "Prophethood",
+      "Salvation"
+    ]
+  },
+  {
+    "ref": "26:68",
+    "themes": [
+      "Compassion & Mercy",
+      "Might"
+    ]
+  },
+  {
+    "ref": "26:69",
+    "themes": [
+      "Guidance",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "26:77",
+    "themes": [
+      "Opposition",
+      "Sovereignty"
+    ]
+  },
+  {
+    "ref": "26:78",
+    "themes": [
+      "Creation",
+      "Guidance"
+    ]
+  },
+  {
+    "ref": "26:79",
+    "themes": [
+      "Gratitude",
+      "Provision"
+    ]
+  },
+  {
+    "ref": "26:80",
+    "themes": [
+      "Assistance",
+      "Healing"
+    ]
+  },
+  {
+    "ref": "26:82",
+    "themes": [
+      "Accountability",
+      "Forgiveness"
+    ]
+  },
+  {
+    "ref": "26:83",
+    "themes": [
+      "Guidance",
+      "Righteousness"
+    ]
+  },
+  {
+    "ref": "26:84",
+    "themes": [
+      "Dua",
+      "Legacy"
+    ]
+  },
+  {
+    "ref": "26:85",
+    "themes": [
+      "Paradise",
+      "Supplication"
+    ]
+  },
+  {
+    "ref": "26:86",
+    "themes": [
+      "Forgiveness",
+      "Guidance"
+    ]
+  },
+  {
+    "ref": "26:87",
+    "themes": [
+      "Accountability",
+      "Resurrection"
+    ]
+  },
+  {
+    "ref": "26:88",
+    "themes": [
+      "Judgment",
+      "Transience",
+      "Wealth"
+    ]
+  },
+  {
+    "ref": "26:89",
+    "themes": [
+      "Purity of Heart",
+      "Spirituality"
+    ]
+  },
+  {
+    "ref": "26:90",
+    "themes": [
+      "Paradise",
+      "Reward",
+      "Righteousness"
+    ]
+  },
+  {
+    "ref": "26:91",
+    "themes": [
+      "Justice",
+      "Warning"
+    ]
+  },
+  {
+    "ref": "26:93",
+    "themes": [
+      "Oneness Of God",
+      "Reliance On God"
+    ]
+  },
+  {
+    "ref": "26:94",
+    "themes": [
+      "Justice",
+      "Punishment"
+    ]
+  },
+  {
+    "ref": "26:99",
+    "themes": [
+      "Accountability",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "26:104",
+    "themes": [
+      "Compassion & Mercy",
+      "Might"
+    ]
+  },
+  {
+    "ref": "26:105",
+    "themes": [
+      "Prophethood",
+      "Rejection"
+    ]
+  },
+  {
+    "ref": "26:106",
+    "themes": [
+      "Fear of God",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "26:107",
+    "themes": [
+      "Prophethood",
+      "Trustworthiness"
+    ]
+  },
+  {
+    "ref": "26:108",
+    "themes": [
+      "Fear of God",
+      "Obedience"
+    ]
+  },
+  {
+    "ref": "26:109",
+    "themes": [
+      "Prophethood",
+      "Trust in God"
+    ]
+  },
+  {
+    "ref": "26:110",
+    "themes": [
+      "Fear of God",
+      "Obedience"
+    ]
+  },
+  {
+    "ref": "26:111",
+    "themes": [
+      "Faith",
+      "Social Justice"
+    ]
+  },
+  {
+    "ref": "26:114",
+    "themes": [
+      "Faith",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "26:116",
+    "themes": [
+      "Prophethood",
+      "Warning"
+    ]
+  },
+  {
+    "ref": "26:117",
+    "themes": [
+      "Prophethood",
+      "Rejection"
+    ]
+  },
+  {
+    "ref": "26:118",
+    "themes": [
+      "Guidance",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "26:119",
+    "themes": [
+      "Intervention",
+      "Salvation"
+    ]
+  },
+  {
+    "ref": "26:122",
+    "themes": [
+      "Compassion & Mercy",
+      "Might"
+    ]
+  },
+  {
+    "ref": "26:124",
+    "themes": [
+      "Fear of God",
+      "Guidance",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "26:125",
+    "themes": [
+      "Prophethood",
+      "Trust"
+    ]
+  },
+  {
+    "ref": "26:126",
+    "themes": [
+      "Fear of God",
+      "Obedience"
+    ]
+  },
+  {
+    "ref": "26:127",
+    "themes": [
+      "Prophethood",
+      "Trust in God"
+    ]
+  },
+  {
+    "ref": "26:130",
+    "themes": [
+      "Justice",
+      "Oppression"
+    ]
+  },
+  {
+    "ref": "26:131",
+    "themes": [
+      "Fear of God",
+      "Obedience"
+    ]
+  },
+  {
+    "ref": "26:132",
+    "themes": [
+      "Fear of God",
+      "Gratitude"
+    ]
+  },
+  {
+    "ref": "26:135",
+    "themes": [
+      "Accountability",
+      "Warning"
+    ]
+  },
+  {
+    "ref": "26:139",
+    "themes": [
+      "Justice",
+      "Signs of God"
+    ]
+  },
+  {
+    "ref": "26:140",
+    "themes": [
+      "Compassion & Mercy",
+      "Might"
+    ]
+  },
+  {
+    "ref": "26:141",
+    "themes": [
+      "Prophethood",
+      "Rejection"
+    ]
+  },
+  {
+    "ref": "26:142",
+    "themes": [
+      "Fear of God",
+      "Guidance",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "26:143",
+    "themes": [
+      "Prophethood",
+      "Trustworthiness"
+    ]
+  },
+  {
+    "ref": "26:144",
+    "themes": [
+      "Fear of God",
+      "Obedience"
+    ]
+  },
+  {
+    "ref": "26:145",
+    "themes": [
+      "Prophethood",
+      "Trust in God"
+    ]
+  },
+  {
+    "ref": "26:150",
+    "themes": [
+      "Fear of God",
+      "Obedience"
+    ]
+  },
+  {
+    "ref": "26:151",
+    "themes": [
+      "Guidance",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "26:152",
+    "themes": [
+      "Corruption",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "26:156",
+    "themes": [
+      "Justice",
+      "Warning"
+    ]
+  },
+  {
+    "ref": "26:158",
+    "themes": [
+      "Disbelief",
+      "Punishment",
+      "Signs"
+    ]
+  },
+  {
+    "ref": "26:159",
+    "themes": [
+      "Compassion & Mercy",
+      "Might"
+    ]
+  },
+  {
+    "ref": "26:160",
+    "themes": [
+      "Prophethood",
+      "Rejection"
+    ]
+  },
+  {
+    "ref": "26:161",
+    "themes": [
+      "Fear of God",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "26:162",
+    "themes": [
+      "Prophethood",
+      "Trustworthiness"
+    ]
+  },
+  {
+    "ref": "26:163",
+    "themes": [
+      "Fear of God",
+      "Obedience"
+    ]
+  },
+  {
+    "ref": "26:164",
+    "themes": [
+      "Prophethood",
+      "Trust in God"
+    ]
+  },
+  {
+    "ref": "26:166",
+    "themes": [
+      "Creation",
+      "Transgression"
+    ]
+  },
+  {
+    "ref": "26:167",
+    "themes": [
+      "Justice",
+      "Prophethood",
+      "Warning"
+    ]
+  },
+  {
+    "ref": "26:169",
+    "themes": [
+      "Protection",
+      "Supplication"
+    ]
+  },
+  {
+    "ref": "26:170",
+    "themes": [
+      "Compassion & Mercy",
+      "Salvation"
+    ]
+  },
+  {
+    "ref": "26:173",
+    "themes": [
+      "Justice",
+      "Punishment",
+      "Warning"
+    ]
+  },
+  {
+    "ref": "26:175",
+    "themes": [
+      "Compassion & Mercy",
+      "Might"
+    ]
+  },
+  {
+    "ref": "26:176",
+    "themes": [
+      "Prophethood",
+      "Rejection"
+    ]
+  },
+  {
+    "ref": "26:177",
+    "themes": [
+      "Fear of God",
+      "Guidance"
+    ]
+  },
+  {
+    "ref": "26:178",
+    "themes": [
+      "Prophethood",
+      "Trustworthiness"
+    ]
+  },
+  {
+    "ref": "26:179",
+    "themes": [
+      "Fear of God",
+      "Obedience"
+    ]
+  },
+  {
+    "ref": "26:180",
+    "themes": [
+      "Prophethood",
+      "Trust in God"
+    ]
+  },
+  {
+    "ref": "26:181",
+    "themes": [
+      "Integrity",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "26:182",
+    "themes": [
+      "Justice"
+    ]
+  },
+  {
+    "ref": "26:183",
+    "themes": [
+      "Corruption",
+      "Ethics",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "26:184",
+    "themes": [
+      "Creation",
+      "Fear of God",
+      "Oneness Of God"
+    ]
+  },
+  {
+    "ref": "26:189",
+    "themes": [
+      "Justice",
+      "Punishment"
+    ]
+  },
+  {
+    "ref": "26:191",
+    "themes": [
+      "Compassion & Mercy",
+      "Power"
+    ]
+  },
+  {
+    "ref": "26:192",
+    "themes": [
+      "Guidance",
+      "Revelation"
+    ]
+  },
+  {
+    "ref": "26:193",
+    "themes": [
+      "Revelation",
+      "Trustworthiness"
+    ]
+  },
+  {
+    "ref": "26:194",
+    "themes": [
+      "Guidance",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "26:195",
+    "themes": [
+      "Clarity",
+      "Language"
+    ]
+  },
+  {
+    "ref": "26:197",
+    "themes": [
+      "Guidance",
+      "Knowledge"
+    ]
+  },
+  {
+    "ref": "26:200",
+    "themes": [
+      "Disbelief",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "26:201",
+    "themes": [
+      "Justice",
+      "Warning"
+    ]
+  },
+  {
+    "ref": "26:204",
+    "themes": [
+      "Justice",
+      "Punishment"
+    ]
+  },
+  {
+    "ref": "26:208",
+    "themes": [
+      "Justice",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "26:209",
+    "themes": [
+      "Justice",
+      "Reminder"
+    ]
+  },
+  {
+    "ref": "26:213",
+    "themes": [
+      "Accountability",
+      "Monotheism",
+      "Warning"
+    ]
+  },
+  {
+    "ref": "26:214",
+    "themes": [
+      "Prophethood",
+      "Warning"
+    ]
+  },
+  {
+    "ref": "26:215",
+    "themes": [
+      "Compassion & Mercy",
+      "Guidance"
+    ]
+  },
+  {
+    "ref": "26:216",
+    "themes": [
+      "Disassociation",
+      "Obedience"
+    ]
+  },
+  {
+    "ref": "26:217",
+    "themes": [
+      "Compassion & Mercy",
+      "Trust in God"
+    ]
+  },
+  {
+    "ref": "26:222",
+    "themes": [
+      "Accountability",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "26:227",
+    "themes": [
+      "Accountability",
+      "Faith",
+      "Justice",
+      "Righteousness"
+    ]
+  }
+]

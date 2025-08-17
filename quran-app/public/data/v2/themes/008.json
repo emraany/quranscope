@@ -1,0 +1,590 @@
+[
+  {
+    "ref": "8:1",
+    "themes": [
+      "Guidance",
+      "Justice",
+      "Obedience"
+    ]
+  },
+  {
+    "ref": "8:2",
+    "themes": [
+      "Faith",
+      "Reliance",
+      "Remembrance of God"
+    ]
+  },
+  {
+    "ref": "8:3",
+    "themes": [
+      "Charity",
+      "Gratitude",
+      "Prayer"
+    ]
+  },
+  {
+    "ref": "8:4",
+    "themes": [
+      "Faith",
+      "Forgiveness",
+      "Reward"
+    ]
+  },
+  {
+    "ref": "8:5",
+    "themes": [
+      "Faith",
+      "Struggle",
+      "Will"
+    ]
+  },
+  {
+    "ref": "8:6",
+    "themes": [
+      "Guidance",
+      "Truth"
+    ]
+  },
+  {
+    "ref": "8:7",
+    "themes": [
+      "Faith",
+      "Truth",
+      "Will"
+    ]
+  },
+  {
+    "ref": "8:8",
+    "themes": [
+      "Justice",
+      "Truth"
+    ]
+  },
+  {
+    "ref": "8:9",
+    "themes": [
+      "Assistance",
+      "Faith",
+      "Guidance"
+    ]
+  },
+  {
+    "ref": "8:10",
+    "themes": [
+      "Assurance",
+      "Support",
+      "Victory"
+    ]
+  },
+  {
+    "ref": "8:11",
+    "themes": [
+      "Compassion & Mercy",
+      "Guidance",
+      "Support"
+    ]
+  },
+  {
+    "ref": "8:12",
+    "themes": [
+      "Conflict",
+      "Justice",
+      "Support"
+    ]
+  },
+  {
+    "ref": "8:13",
+    "themes": [
+      "Authority",
+      "Justice",
+      "Obedience"
+    ]
+  },
+  {
+    "ref": "8:14",
+    "themes": [
+      "Justice",
+      "Punishment"
+    ]
+  },
+  {
+    "ref": "8:15",
+    "themes": [
+      "Courage",
+      "Faith",
+      "Perseverance"
+    ]
+  },
+  {
+    "ref": "8:16",
+    "themes": [
+      "Courage",
+      "Justice",
+      "Punishment"
+    ]
+  },
+  {
+    "ref": "8:17",
+    "themes": [
+      "Guidance",
+      "Test of Faith",
+      "Will"
+    ]
+  },
+  {
+    "ref": "8:18",
+    "themes": [
+      "Justice",
+      "Will"
+    ]
+  },
+  {
+    "ref": "8:19",
+    "themes": [
+      "Guidance",
+      "Justice",
+      "Support"
+    ]
+  },
+  {
+    "ref": "8:20",
+    "themes": [
+      "Guidance",
+      "Obedience"
+    ]
+  },
+  {
+    "ref": "8:21",
+    "themes": [
+      "Faithfulness",
+      "Guidance"
+    ]
+  },
+  {
+    "ref": "8:22",
+    "themes": [
+      "Guidance",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "8:23",
+    "themes": [
+      "Free Will",
+      "Guidance",
+      "Knowledge"
+    ]
+  },
+  {
+    "ref": "8:24",
+    "themes": [
+      "Accountability",
+      "Guidance",
+      "Life",
+      "Obedience"
+    ]
+  },
+  {
+    "ref": "8:25",
+    "themes": [
+      "Accountability",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "8:26",
+    "themes": [
+      "Compassion & Mercy",
+      "Gratitude",
+      "Support"
+    ]
+  },
+  {
+    "ref": "8:27",
+    "themes": [
+      "Faith",
+      "Obedience",
+      "Trustworthiness"
+    ]
+  },
+  {
+    "ref": "8:28",
+    "themes": [
+      "Reward",
+      "Trials & Tests",
+      "Wealth"
+    ]
+  },
+  {
+    "ref": "8:29",
+    "themes": [
+      "Compassion & Mercy",
+      "Forgiveness",
+      "Guidance"
+    ]
+  },
+  {
+    "ref": "8:30",
+    "themes": [
+      "Opposition",
+      "Protection",
+      "Wisdom"
+    ]
+  },
+  {
+    "ref": "8:31",
+    "themes": [
+      "Guidance",
+      "Rejection"
+    ]
+  },
+  {
+    "ref": "8:32",
+    "themes": [
+      "Authority",
+      "Disbelief",
+      "Punishment"
+    ]
+  },
+  {
+    "ref": "8:33",
+    "themes": [
+      "Compassion & Mercy",
+      "Forgiveness",
+      "Protection"
+    ]
+  },
+  {
+    "ref": "8:34",
+    "themes": [
+      "Guidance",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "8:35",
+    "themes": [
+      "Disbelief",
+      "Punishment"
+    ]
+  },
+  {
+    "ref": "8:36",
+    "themes": [
+      "Consequences",
+      "Disbelief",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "8:37",
+    "themes": [
+      "Accountability",
+      "Distinction Between Good and Evil",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "8:38",
+    "themes": [
+      "Forgiveness",
+      "Justice",
+      "Warning"
+    ]
+  },
+  {
+    "ref": "8:39",
+    "themes": [
+      "Faith",
+      "Justice",
+      "Struggle"
+    ]
+  },
+  {
+    "ref": "8:40",
+    "themes": [
+      "Assistance",
+      "Protection"
+    ]
+  },
+  {
+    "ref": "8:41",
+    "themes": [
+      "Charity",
+      "Guidance",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "8:42",
+    "themes": [
+      "Guidance",
+      "Justice",
+      "Will"
+    ]
+  },
+  {
+    "ref": "8:43",
+    "themes": [
+      "Courage",
+      "Guidance",
+      "Wisdom"
+    ]
+  },
+  {
+    "ref": "8:44",
+    "themes": [
+      "Destiny",
+      "Guidance",
+      "Wisdom"
+    ]
+  },
+  {
+    "ref": "8:45",
+    "themes": [
+      "Assistance",
+      "Faith",
+      "Perseverance"
+    ]
+  },
+  {
+    "ref": "8:46",
+    "themes": [
+      "Obedience",
+      "Patience",
+      "Support"
+    ]
+  },
+  {
+    "ref": "8:47",
+    "themes": [
+      "Awareness",
+      "Guidance",
+      "Hypocrisy"
+    ]
+  },
+  {
+    "ref": "8:48",
+    "themes": [
+      "Consequences of Actions",
+      "Deception",
+      "Fear of God",
+      "Protection"
+    ]
+  },
+  {
+    "ref": "8:49",
+    "themes": [
+      "Faith",
+      "Hypocrisy",
+      "Reliance On God"
+    ]
+  },
+  {
+    "ref": "8:50",
+    "themes": [
+      "Disbelief",
+      "Justice",
+      "Punishment"
+    ]
+  },
+  {
+    "ref": "8:51",
+    "themes": [
+      "Accountability",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "8:52",
+    "themes": [
+      "Disbelief",
+      "Justice",
+      "Power"
+    ]
+  },
+  {
+    "ref": "8:53",
+    "themes": [
+      "Accountability",
+      "Change",
+      "Wisdom"
+    ]
+  },
+  {
+    "ref": "8:54",
+    "themes": [
+      "Justice",
+      "Punishment",
+      "Warning"
+    ]
+  },
+  {
+    "ref": "8:55",
+    "themes": [
+      "Disbelief",
+      "Judgment"
+    ]
+  },
+  {
+    "ref": "8:56",
+    "themes": [
+      "Accountability",
+      "Betrayal",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "8:57",
+    "themes": [
+      "Guidance",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "8:58",
+    "themes": [
+      "Accountability",
+      "Justice",
+      "Trust"
+    ]
+  },
+  {
+    "ref": "8:59",
+    "themes": [
+      "Accountability",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "8:60",
+    "themes": [
+      "Justice",
+      "Knowledge",
+      "Preparation",
+      "Reward"
+    ]
+  },
+  {
+    "ref": "8:61",
+    "themes": [
+      "Knowledge",
+      "Peace",
+      "Trust in God"
+    ]
+  },
+  {
+    "ref": "8:62",
+    "themes": [
+      "Community of Believers",
+      "Support",
+      "Trust in God"
+    ]
+  },
+  {
+    "ref": "8:63",
+    "themes": [
+      "Power",
+      "Unity",
+      "Wisdom"
+    ]
+  },
+  {
+    "ref": "8:64",
+    "themes": [
+      "Faith",
+      "Prophethood",
+      "Support"
+    ]
+  },
+  {
+    "ref": "8:65",
+    "themes": [
+      "Courage",
+      "Faith",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "8:66",
+    "themes": [
+      "Compassion & Mercy",
+      "Steadfastness",
+      "Strength"
+    ]
+  },
+  {
+    "ref": "8:67",
+    "themes": [
+      "Justice",
+      "Prophethood",
+      "Worldly Life vs. Hereafter"
+    ]
+  },
+  {
+    "ref": "8:68",
+    "themes": [
+      "Decree",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "8:69",
+    "themes": [
+      "Compassion & Mercy",
+      "Forgiveness",
+      "Lawfulness"
+    ]
+  },
+  {
+    "ref": "8:70",
+    "themes": [
+      "Compassion & Mercy",
+      "Forgiveness",
+      "Guidance"
+    ]
+  },
+  {
+    "ref": "8:71",
+    "themes": [
+      "Betrayal",
+      "Empowerment",
+      "Knowledge"
+    ]
+  },
+  {
+    "ref": "8:72",
+    "themes": [
+      "Community",
+      "Faith",
+      "Sacrifice",
+      "Support"
+    ]
+  },
+  {
+    "ref": "8:73",
+    "themes": [
+      "Community",
+      "Corruption",
+      "Disbelief"
+    ]
+  },
+  {
+    "ref": "8:74",
+    "themes": [
+      "Faith",
+      "Forgiveness",
+      "Struggle in The Cause of God",
+      "Support and Solidarity"
+    ]
+  },
+  {
+    "ref": "8:75",
+    "themes": [
+      "Community",
+      "Guidance",
+      "Justice"
+    ]
+  }
+]

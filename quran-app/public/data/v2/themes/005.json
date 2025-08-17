@@ -1,0 +1,962 @@
+[
+  {
+    "ref": "5:1",
+    "themes": [
+      "Guidance",
+      "Justice",
+      "Obedience"
+    ]
+  },
+  {
+    "ref": "5:2",
+    "themes": [
+      "Cooperation",
+      "Justice",
+      "Piety",
+      "Rituals"
+    ]
+  },
+  {
+    "ref": "5:3",
+    "themes": [
+      "Compassion & Mercy",
+      "Completeness of Religion",
+      "Guidance",
+      "Prohibition"
+    ]
+  },
+  {
+    "ref": "5:4",
+    "themes": [
+      "Guidance",
+      "Lawfulness",
+      "Obedience"
+    ]
+  },
+  {
+    "ref": "5:5",
+    "themes": [
+      "Chastity",
+      "Consequences of Faith",
+      "Interfaith Relations",
+      "Lawfulness"
+    ]
+  },
+  {
+    "ref": "5:6",
+    "themes": [
+      "Compassion & Mercy",
+      "Gratitude",
+      "Purification"
+    ]
+  },
+  {
+    "ref": "5:7",
+    "themes": [
+      "Covenant",
+      "Gratitude",
+      "Knowledge",
+      "Obedience"
+    ]
+  },
+  {
+    "ref": "5:8",
+    "themes": [
+      "Faith",
+      "Justice",
+      "Righteousness"
+    ]
+  },
+  {
+    "ref": "5:9",
+    "themes": [
+      "Faith",
+      "Forgiveness",
+      "Reward",
+      "Righteousness"
+    ]
+  },
+  {
+    "ref": "5:10",
+    "themes": [
+      "Disbelief",
+      "Punishment"
+    ]
+  },
+  {
+    "ref": "5:11",
+    "themes": [
+      "Compassion & Mercy",
+      "Faith",
+      "Protection"
+    ]
+  },
+  {
+    "ref": "5:12",
+    "themes": [
+      "Accountability",
+      "Compassion & Mercy",
+      "Covenant",
+      "Guidance"
+    ]
+  },
+  {
+    "ref": "5:13",
+    "themes": [
+      "Forgiveness",
+      "Guidance",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "5:14",
+    "themes": [
+      "Accountability",
+      "Covenant",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "5:15",
+    "themes": [
+      "Guidance",
+      "Prophethood",
+      "Revelation"
+    ]
+  },
+  {
+    "ref": "5:16",
+    "themes": [
+      "Compassion & Mercy",
+      "Guidance",
+      "Light"
+    ]
+  },
+  {
+    "ref": "5:17",
+    "themes": [
+      "Creation",
+      "Dominion",
+      "Oneness Of God"
+    ]
+  },
+  {
+    "ref": "5:18",
+    "themes": [
+      "Forgiveness",
+      "Justice",
+      "Sovereignty"
+    ]
+  },
+  {
+    "ref": "5:19",
+    "themes": [
+      "Guidance",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "5:20",
+    "themes": [
+      "Favor of God",
+      "Gratitude",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "5:21",
+    "themes": [
+      "Assignment",
+      "Courage",
+      "Guidance"
+    ]
+  },
+  {
+    "ref": "5:22",
+    "themes": [
+      "Courage",
+      "Faith",
+      "Oppression"
+    ]
+  },
+  {
+    "ref": "5:23",
+    "themes": [
+      "Assistance",
+      "Courage",
+      "Faith"
+    ]
+  },
+  {
+    "ref": "5:24",
+    "themes": [
+      "Courage",
+      "Disobedience",
+      "Faith"
+    ]
+  },
+  {
+    "ref": "5:25",
+    "themes": [
+      "Justice",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "5:26",
+    "themes": [
+      "Disobedience",
+      "Guidance",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "5:27",
+    "themes": [
+      "Guidance",
+      "Justice",
+      "Righteousness"
+    ]
+  },
+  {
+    "ref": "5:28",
+    "themes": [
+      "Fear of God",
+      "Justice",
+      "Peace"
+    ]
+  },
+  {
+    "ref": "5:29",
+    "themes": [
+      "Accountability",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "5:30",
+    "themes": [
+      "Brotherhood",
+      "Loss",
+      "Sin"
+    ]
+  },
+  {
+    "ref": "5:31",
+    "themes": [
+      "Brotherhood",
+      "Guidance",
+      "Regret"
+    ]
+  },
+  {
+    "ref": "5:32",
+    "themes": [
+      "Justice",
+      "Prophethood",
+      "Sanctity of Life"
+    ]
+  },
+  {
+    "ref": "5:33",
+    "themes": [
+      "Corruption",
+      "Justice",
+      "Punishment"
+    ]
+  },
+  {
+    "ref": "5:34",
+    "themes": [
+      "Compassion & Mercy",
+      "Forgiveness",
+      "Repentance"
+    ]
+  },
+  {
+    "ref": "5:35",
+    "themes": [
+      "Faith",
+      "Guidance",
+      "Striving"
+    ]
+  },
+  {
+    "ref": "5:36",
+    "themes": [
+      "Accountability",
+      "Justice",
+      "Punishment"
+    ]
+  },
+  {
+    "ref": "5:37",
+    "themes": [
+      "Justice",
+      "Punishment"
+    ]
+  },
+  {
+    "ref": "5:38",
+    "themes": [
+      "Authority",
+      "Deterrence",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "5:39",
+    "themes": [
+      "Compassion & Mercy",
+      "Forgiveness",
+      "Repentance"
+    ]
+  },
+  {
+    "ref": "5:40",
+    "themes": [
+      "Compassion & Mercy",
+      "Justice",
+      "Sovereignty"
+    ]
+  },
+  {
+    "ref": "5:41",
+    "themes": [
+      "Disbelief",
+      "Guidance",
+      "Prophethood",
+      "Punishment"
+    ]
+  },
+  {
+    "ref": "5:42",
+    "themes": [
+      "Falsehood",
+      "Judgment",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "5:43",
+    "themes": [
+      "Faith",
+      "Guidance",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "5:44",
+    "themes": [
+      "Guidance",
+      "Justice",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "5:45",
+    "themes": [
+      "Charity",
+      "Justice",
+      "Punishment"
+    ]
+  },
+  {
+    "ref": "5:46",
+    "themes": [
+      "Guidance",
+      "Prophethood",
+      "Revelation"
+    ]
+  },
+  {
+    "ref": "5:47",
+    "themes": [
+      "Guidance",
+      "Justice",
+      "Obedience"
+    ]
+  },
+  {
+    "ref": "5:48",
+    "themes": [
+      "Guidance",
+      "Justice",
+      "Trials & Tests"
+    ]
+  },
+  {
+    "ref": "5:49",
+    "themes": [
+      "Guidance",
+      "Justice",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "5:50",
+    "themes": [
+      "Guidance",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "5:51",
+    "themes": [
+      "Community",
+      "Faith",
+      "Guidance"
+    ]
+  },
+  {
+    "ref": "5:52",
+    "themes": [
+      "Fear",
+      "Hypocrisy",
+      "Will"
+    ]
+  },
+  {
+    "ref": "5:53",
+    "themes": [
+      "Accountability",
+      "Faith",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "5:54",
+    "themes": [
+      "Community",
+      "Faith",
+      "Favor",
+      "Struggle in The Cause of God"
+    ]
+  },
+  {
+    "ref": "5:55",
+    "themes": [
+      "Allegiance",
+      "Faith",
+      "Worship"
+    ]
+  },
+  {
+    "ref": "5:56",
+    "themes": [
+      "Faith",
+      "Unity",
+      "Victory"
+    ]
+  },
+  {
+    "ref": "5:57",
+    "themes": [
+      "Community",
+      "Faith",
+      "Guidance"
+    ]
+  },
+  {
+    "ref": "5:58",
+    "themes": [
+      "Guidance",
+      "Mockery"
+    ]
+  },
+  {
+    "ref": "5:59",
+    "themes": [
+      "Disobedience",
+      "Faith",
+      "Interfaith Relations"
+    ]
+  },
+  {
+    "ref": "5:60",
+    "themes": [
+      "Anger",
+      "Guidance",
+      "Punishment"
+    ]
+  },
+  {
+    "ref": "5:61",
+    "themes": [
+      "Hypocrisy",
+      "Knowledge of God"
+    ]
+  },
+  {
+    "ref": "5:62",
+    "themes": [
+      "Aggression",
+      "Sin",
+      "Unlawfulness"
+    ]
+  },
+  {
+    "ref": "5:63",
+    "themes": [
+      "Accountability",
+      "Guidance",
+      "Moral Conduct"
+    ]
+  },
+  {
+    "ref": "5:64",
+    "themes": [
+      "Corruption",
+      "Enmity",
+      "Justice",
+      "Will"
+    ]
+  },
+  {
+    "ref": "5:65",
+    "themes": [
+      "Compassion & Mercy",
+      "Forgiveness",
+      "Guidance"
+    ]
+  },
+  {
+    "ref": "5:66",
+    "themes": [
+      "Community",
+      "Guidance",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "5:67",
+    "themes": [
+      "Guidance",
+      "Prophethood",
+      "Protection"
+    ]
+  },
+  {
+    "ref": "5:68",
+    "themes": [
+      "Disbelief",
+      "Guidance",
+      "Scripture"
+    ]
+  },
+  {
+    "ref": "5:69",
+    "themes": [
+      "Compassion & Mercy",
+      "Faith",
+      "Inclusivity",
+      "Righteousness"
+    ]
+  },
+  {
+    "ref": "5:70",
+    "themes": [
+      "Covenant",
+      "Prophethood",
+      "Rejection of Guidance"
+    ]
+  },
+  {
+    "ref": "5:71",
+    "themes": [
+      "Accountability",
+      "Forgiveness",
+      "Guidance"
+    ]
+  },
+  {
+    "ref": "5:72",
+    "themes": [
+      "Accountability",
+      "Disbelief",
+      "Justice",
+      "Monotheism"
+    ]
+  },
+  {
+    "ref": "5:73",
+    "themes": [
+      "Disbelief",
+      "Monotheism",
+      "Punishment"
+    ]
+  },
+  {
+    "ref": "5:74",
+    "themes": [
+      "Compassion & Mercy",
+      "Forgiveness",
+      "Repentance"
+    ]
+  },
+  {
+    "ref": "5:75",
+    "themes": [
+      "Prophethood",
+      "Signs of God",
+      "Truth"
+    ]
+  },
+  {
+    "ref": "5:76",
+    "themes": [
+      "Guidance",
+      "Oneness Of God"
+    ]
+  },
+  {
+    "ref": "5:77",
+    "themes": [
+      "Guidance",
+      "Justice",
+      "Truth"
+    ]
+  },
+  {
+    "ref": "5:78",
+    "themes": [
+      "Consequences",
+      "Disobedience",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "5:79",
+    "themes": [
+      "Accountability",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "5:80",
+    "themes": [
+      "Anger",
+      "Disbelief",
+      "Punishment"
+    ]
+  },
+  {
+    "ref": "5:81",
+    "themes": [
+      "Disobedience",
+      "Faith",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "5:82",
+    "themes": [
+      "Affection",
+      "Animosity",
+      "Community",
+      "Humility"
+    ]
+  },
+  {
+    "ref": "5:83",
+    "themes": [
+      "Faith",
+      "Recognition of Truth",
+      "Witnessing"
+    ]
+  },
+  {
+    "ref": "5:84",
+    "themes": [
+      "Aspiration",
+      "Faith",
+      "Righteousness"
+    ]
+  },
+  {
+    "ref": "5:85",
+    "themes": [
+      "Good Deeds",
+      "Paradise",
+      "Reward"
+    ]
+  },
+  {
+    "ref": "5:86",
+    "themes": [
+      "Disbelief",
+      "Justice",
+      "Punishment"
+    ]
+  },
+  {
+    "ref": "5:87",
+    "themes": [
+      "Guidance",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "5:88",
+    "themes": [
+      "Faith",
+      "Gratitude",
+      "Lawfulness"
+    ]
+  },
+  {
+    "ref": "5:89",
+    "themes": [
+      "Accountability",
+      "Guidance",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "5:90",
+    "themes": [
+      "Guidance",
+      "Prohibition",
+      "Purity"
+    ]
+  },
+  {
+    "ref": "5:91",
+    "themes": [
+      "Prayer",
+      "Remembrance of God",
+      "Satan",
+      "Social Conduct"
+    ]
+  },
+  {
+    "ref": "5:92",
+    "themes": [
+      "Obedience",
+      "Prophethood",
+      "Responsibility"
+    ]
+  },
+  {
+    "ref": "5:93",
+    "themes": [
+      "Fear of God",
+      "Love",
+      "Righteousness"
+    ]
+  },
+  {
+    "ref": "5:94",
+    "themes": [
+      "Accountability",
+      "Fear of God",
+      "Trials & Tests"
+    ]
+  },
+  {
+    "ref": "5:95",
+    "themes": [
+      "Compassion & Mercy",
+      "Guidance",
+      "Justice",
+      "Punishment"
+    ]
+  },
+  {
+    "ref": "5:96",
+    "themes": [
+      "Fear of God",
+      "Lawful Provision",
+      "Obedience"
+    ]
+  },
+  {
+    "ref": "5:97",
+    "themes": [
+      "Guidance",
+      "Knowledge",
+      "Sacredness"
+    ]
+  },
+  {
+    "ref": "5:98",
+    "themes": [
+      "Compassion & Mercy",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "5:99",
+    "themes": [
+      "Accountability",
+      "Knowledge",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "5:100",
+    "themes": [
+      "Fear of God",
+      "Guidance",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "5:101",
+    "themes": [
+      "Forgiveness",
+      "Guidance",
+      "Patience"
+    ]
+  },
+  {
+    "ref": "5:102",
+    "themes": [
+      "Disbelief",
+      "Faith"
+    ]
+  },
+  {
+    "ref": "5:103",
+    "themes": [
+      "Guidance",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "5:104",
+    "themes": [
+      "Guidance",
+      "Prophethood",
+      "Rejection of Tradition"
+    ]
+  },
+  {
+    "ref": "5:105",
+    "themes": [
+      "Accountability",
+      "Guidance",
+      "Responsibility"
+    ]
+  },
+  {
+    "ref": "5:106",
+    "themes": [
+      "Accountability",
+      "Justice",
+      "Testimony"
+    ]
+  },
+  {
+    "ref": "5:107",
+    "themes": [
+      "Justice",
+      "Truthfulness"
+    ]
+  },
+  {
+    "ref": "5:108",
+    "themes": [
+      "Accountability",
+      "Guidance",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "5:109",
+    "themes": [
+      "Accountability",
+      "Knowledge",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "5:110",
+    "themes": [
+      "Favor",
+      "Guidance",
+      "Miracles",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "5:111",
+    "themes": [
+      "Faith",
+      "Prophethood",
+      "Submission"
+    ]
+  },
+  {
+    "ref": "5:112",
+    "themes": [
+      "Faith",
+      "Prophethood",
+      "Provision"
+    ]
+  },
+  {
+    "ref": "5:113",
+    "themes": [
+      "Faith",
+      "Reassurance",
+      "Truthfulness"
+    ]
+  },
+  {
+    "ref": "5:114",
+    "themes": [
+      "Prophethood",
+      "Provision",
+      "Signs of God"
+    ]
+  },
+  {
+    "ref": "5:115",
+    "themes": [
+      "Disbelief",
+      "Guidance",
+      "Punishment"
+    ]
+  },
+  {
+    "ref": "5:116",
+    "themes": [
+      "Justice",
+      "Oneness of God",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "5:117",
+    "themes": [
+      "Guidance",
+      "Prophethood",
+      "Witness"
+    ]
+  },
+  {
+    "ref": "5:118",
+    "themes": [
+      "Authority",
+      "Compassion & Mercy",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "5:119",
+    "themes": [
+      "Paradise",
+      "Pleasure",
+      "Truthfulness"
+    ]
+  },
+  {
+    "ref": "5:120",
+    "themes": [
+      "Omnipotence",
+      "Power",
+      "Sovereignty"
+    ]
+  }
+]

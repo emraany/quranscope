@@ -1,0 +1,634 @@
+[
+  {
+    "ref": "27:2",
+    "themes": [
+      "Good Tidings",
+      "Guidance"
+    ]
+  },
+  {
+    "ref": "27:3",
+    "themes": [
+      "Charity",
+      "Faith",
+      "Hereafter",
+      "Prayer"
+    ]
+  },
+  {
+    "ref": "27:4",
+    "themes": [
+      "Accountability",
+      "Guidance",
+      "Misguidance"
+    ]
+  },
+  {
+    "ref": "27:5",
+    "themes": [
+      "Accountability",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "27:6",
+    "themes": [
+      "Guidance",
+      "Knowledge",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "27:7",
+    "themes": [
+      "Guidance",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "27:8",
+    "themes": [
+      "Blessings",
+      "Exaltation",
+      "Presence"
+    ]
+  },
+  {
+    "ref": "27:9",
+    "themes": [
+      "Authority",
+      "Prophethood",
+      "Wisdom"
+    ]
+  },
+  {
+    "ref": "27:10",
+    "themes": [
+      "Fear of God",
+      "Prophethood",
+      "Support"
+    ]
+  },
+  {
+    "ref": "27:11",
+    "themes": [
+      "Compassion & Mercy",
+      "Forgiveness"
+    ]
+  },
+  {
+    "ref": "27:12",
+    "themes": [
+      "Disobedience",
+      "Prophethood",
+      "Signs"
+    ]
+  },
+  {
+    "ref": "27:13",
+    "themes": [
+      "Rejection of Truth",
+      "Signs of God"
+    ]
+  },
+  {
+    "ref": "27:14",
+    "themes": [
+      "Corruption",
+      "Justice",
+      "Rejection of Truth"
+    ]
+  },
+  {
+    "ref": "27:15",
+    "themes": [
+      "Gratitude",
+      "Knowledge",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "27:16",
+    "themes": [
+      "Bounty",
+      "Knowledge",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "27:17",
+    "themes": [
+      "Leadership",
+      "Support",
+      "Unity"
+    ]
+  },
+  {
+    "ref": "27:18",
+    "themes": [
+      "Leadership",
+      "Nature",
+      "Wisdom"
+    ]
+  },
+  {
+    "ref": "27:19",
+    "themes": [
+      "Compassion & Mercy",
+      "Gratitude",
+      "Righteousness"
+    ]
+  },
+  {
+    "ref": "27:21",
+    "themes": [
+      "Accountability",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "27:22",
+    "themes": [
+      "Guidance",
+      "Knowledge"
+    ]
+  },
+  {
+    "ref": "27:23",
+    "themes": [
+      "Leadership",
+      "Power"
+    ]
+  },
+  {
+    "ref": "27:24",
+    "themes": [
+      "Guidance",
+      "Misguidance",
+      "Worship"
+    ]
+  },
+  {
+    "ref": "27:25",
+    "themes": [
+      "Justice",
+      "Knowledge",
+      "Submission"
+    ]
+  },
+  {
+    "ref": "27:26",
+    "themes": [
+      "Monotheism",
+      "Sovereignty"
+    ]
+  },
+  {
+    "ref": "27:27",
+    "themes": [
+      "Judgment",
+      "Truthfulness"
+    ]
+  },
+  {
+    "ref": "27:30",
+    "themes": [
+      "Compassion & Mercy",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "27:31",
+    "themes": [
+      "Humility",
+      "Submission"
+    ]
+  },
+  {
+    "ref": "27:33",
+    "themes": [
+      "Authority",
+      "Obedience",
+      "Strength"
+    ]
+  },
+  {
+    "ref": "27:34",
+    "themes": [
+      "Corruption",
+      "Justice",
+      "Power"
+    ]
+  },
+  {
+    "ref": "27:35",
+    "themes": [
+      "Prophethood",
+      "Trials & Tests"
+    ]
+  },
+  {
+    "ref": "27:36",
+    "themes": [
+      "Favor",
+      "Gratitude",
+      "Wealth"
+    ]
+  },
+  {
+    "ref": "27:37",
+    "themes": [
+      "Justice",
+      "Punishment"
+    ]
+  },
+  {
+    "ref": "27:38",
+    "themes": [
+      "Leadership",
+      "Power",
+      "Wisdom"
+    ]
+  },
+  {
+    "ref": "27:39",
+    "themes": [
+      "Power",
+      "Trustworthiness"
+    ]
+  },
+  {
+    "ref": "27:40",
+    "themes": [
+      "Favor",
+      "Gratitude",
+      "Trials & Tests"
+    ]
+  },
+  {
+    "ref": "27:41",
+    "themes": [
+      "Guidance",
+      "Trials & Tests"
+    ]
+  },
+  {
+    "ref": "27:42",
+    "themes": [
+      "Knowledge",
+      "Prophethood",
+      "Submission"
+    ]
+  },
+  {
+    "ref": "27:43",
+    "themes": [
+      "Disbelief",
+      "Guidance",
+      "Worship"
+    ]
+  },
+  {
+    "ref": "27:44",
+    "themes": [
+      "Guidance",
+      "Recognition of Wrongdoing",
+      "Submission"
+    ]
+  },
+  {
+    "ref": "27:45",
+    "themes": [
+      "Conflict",
+      "Prophethood",
+      "Worship"
+    ]
+  },
+  {
+    "ref": "27:46",
+    "themes": [
+      "Compassion & Mercy",
+      "Forgiveness",
+      "Guidance"
+    ]
+  },
+  {
+    "ref": "27:47",
+    "themes": [
+      "Trials & Tests",
+      "Will"
+    ]
+  },
+  {
+    "ref": "27:48",
+    "themes": [
+      "Corruption",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "27:49",
+    "themes": [
+      "Conspiracy",
+      "Deceit",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "27:50",
+    "themes": [
+      "Justice",
+      "Will"
+    ]
+  },
+  {
+    "ref": "27:51",
+    "themes": [
+      "Justice",
+      "Will"
+    ]
+  },
+  {
+    "ref": "27:52",
+    "themes": [
+      "Justice",
+      "Signs of God"
+    ]
+  },
+  {
+    "ref": "27:53",
+    "themes": [
+      "Faith",
+      "Fear of God",
+      "Salvation"
+    ]
+  },
+  {
+    "ref": "27:54",
+    "themes": [
+      "Moral Guidance",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "27:55",
+    "themes": [
+      "Guidance",
+      "Morality"
+    ]
+  },
+  {
+    "ref": "27:56",
+    "themes": [
+      "Justice",
+      "Purity"
+    ]
+  },
+  {
+    "ref": "27:57",
+    "themes": [
+      "Compassion & Mercy",
+      "Will"
+    ]
+  },
+  {
+    "ref": "27:58",
+    "themes": [
+      "Justice",
+      "Punishment"
+    ]
+  },
+  {
+    "ref": "27:59",
+    "themes": [
+      "Monotheism",
+      "Praise",
+      "Prophethood"
+    ]
+  },
+  {
+    "ref": "27:60",
+    "themes": [
+      "Creation",
+      "Gratitude",
+      "Oneness of God"
+    ]
+  },
+  {
+    "ref": "27:61",
+    "themes": [
+      "Creation",
+      "Monotheism",
+      "Signs of God"
+    ]
+  },
+  {
+    "ref": "27:62",
+    "themes": [
+      "Compassion & Mercy",
+      "Guidance",
+      "Response"
+    ]
+  },
+  {
+    "ref": "27:63",
+    "themes": [
+      "Compassion & Mercy",
+      "Guidance",
+      "Monotheism"
+    ]
+  },
+  {
+    "ref": "27:64",
+    "themes": [
+      "Creation",
+      "Monotheism",
+      "Provision"
+    ]
+  },
+  {
+    "ref": "27:65",
+    "themes": [
+      "Omniscience",
+      "Resurrection"
+    ]
+  },
+  {
+    "ref": "27:66",
+    "themes": [
+      "Doubt",
+      "Hereafter",
+      "Knowledge"
+    ]
+  },
+  {
+    "ref": "27:67",
+    "themes": [
+      "Disbelief",
+      "Resurrection"
+    ]
+  },
+  {
+    "ref": "27:69",
+    "themes": [
+      "Justice",
+      "Reflection"
+    ]
+  },
+  {
+    "ref": "27:70",
+    "themes": [
+      "Patience",
+      "Trust in God"
+    ]
+  },
+  {
+    "ref": "27:73",
+    "themes": [
+      "Bounty",
+      "Gratitude"
+    ]
+  },
+  {
+    "ref": "27:74",
+    "themes": [
+      "Justice",
+      "Knowledge"
+    ]
+  },
+  {
+    "ref": "27:75",
+    "themes": [
+      "Knowledge",
+      "Will"
+    ]
+  },
+  {
+    "ref": "27:76",
+    "themes": [
+      "Guidance",
+      "Revelation"
+    ]
+  },
+  {
+    "ref": "27:77",
+    "themes": [
+      "Compassion & Mercy",
+      "Guidance"
+    ]
+  },
+  {
+    "ref": "27:78",
+    "themes": [
+      "Justice",
+      "Knowledge"
+    ]
+  },
+  {
+    "ref": "27:79",
+    "themes": [
+      "Trust in God",
+      "Truth"
+    ]
+  },
+  {
+    "ref": "27:81",
+    "themes": [
+      "Faith",
+      "Guidance"
+    ]
+  },
+  {
+    "ref": "27:82",
+    "themes": [
+      "Accountability",
+      "Faith",
+      "Signs of God"
+    ]
+  },
+  {
+    "ref": "27:83",
+    "themes": [
+      "Accountability",
+      "Justice",
+      "Warning"
+    ]
+  },
+  {
+    "ref": "27:84",
+    "themes": [
+      "Accountability",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "27:85",
+    "themes": [
+      "Accountability",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "27:86",
+    "themes": [
+      "Creation",
+      "Guidance",
+      "Signs of God"
+    ]
+  },
+  {
+    "ref": "27:87",
+    "themes": [
+      "Day Of Judgment",
+      "Humility",
+      "Will"
+    ]
+  },
+  {
+    "ref": "27:88",
+    "themes": [
+      "Creation",
+      "Power of God",
+      "Transience"
+    ]
+  },
+  {
+    "ref": "27:89",
+    "themes": [
+      "Justice",
+      "Reward",
+      "Safety"
+    ]
+  },
+  {
+    "ref": "27:90",
+    "themes": [
+      "Accountability",
+      "Justice"
+    ]
+  },
+  {
+    "ref": "27:91",
+    "themes": [
+      "Sacredness",
+      "Submission",
+      "Worship"
+    ]
+  },
+  {
+    "ref": "27:92",
+    "themes": [
+      "Guidance",
+      "Prophethood",
+      "Warning"
+    ]
+  },
+  {
+    "ref": "27:93",
+    "themes": [
+      "Awareness of Actions",
+      "Praise",
+      "Signs of God"
+    ]
+  }
+]
