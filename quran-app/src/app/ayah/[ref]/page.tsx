@@ -28,6 +28,16 @@ type AyahRow = {
   arabic: string | null;
   english: string | null;
 };
+
+type SurahIndexRow = {
+  id: number;
+  name?: string | null;
+  transliteration?: string | null;
+  translation?: string | null;
+  type?: string | null;
+  ayahCount: number;
+};
+
 type ThemeRow = { ref: string; themes: string[] };
 
 type TafsirPayload = { html?: string; text?: string }; // legacy (per-ayah)
@@ -43,6 +53,7 @@ export default function AyahPage() {
 
   const [ayahs, setAyahs] = useState<AyahRow[] | null>(null);
   const [themesRows, setThemesRows] = useState<ThemeRow[] | null>(null);
+  const [surahMeta, setSurahMeta] = useState<SurahIndexRow | null>(null);
   const [loadingData, setLoadingData] = useState(true);
   const [dataError, setDataError] = useState<string | null>(null);
 
@@ -83,14 +94,17 @@ export default function AyahPage() {
       setLoadingData(true);
       setDataError(null);
 
-      const [surahData, themesData] = await Promise.all([
+      const [surahData, themesData, index] = await Promise.all([
         fetchJSON<AyahRow[]>(`${BASE}/surahs/${pad3(surahId)}.json`),
         fetchJSON<ThemeRow[]>(`${BASE}/themes/${pad3(surahId)}.json`),
+        fetchJSON<SurahIndexRow[]>(`${BASE}/meta/surah-index.json`),
       ]);
 
       if (!cancelled) {
         setAyahs(surahData ?? []);
         setThemesRows(themesData ?? []);
+        const meta = (index ?? [])?.find?.((r) => r.id === surahId) ?? null;
+        setSurahMeta(meta);
         if (!surahData) setDataError("Couldn’t load this surah’s verses.");
         setLoadingData(false);
 
@@ -317,9 +331,13 @@ export default function AyahPage() {
       </div>
 
       <h1 className="font-brand text-3xl font-semibold mb-6">
-        Surah {surahId} — Ayah {ayahId}
+        {surahMeta?.transliteration ?? `Surah ${surahId}`}{" "}
+        <span className="text-gray-500">
+          ({surahMeta?.translation} · Surah {surahId})
+        </span>{" "}
+        — Ayah {ayahId}
       </h1>
-
+      
       <AyahCard
         noHover
         refStr={key}
