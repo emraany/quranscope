@@ -180,7 +180,7 @@ async def explain_ayah(req: ExplainRequest, response: Response):
     except Exception as e:
         print("🔥 OpenAI ERROR:", e)
         response.headers["X-Cache"] = "BYPASS"
-        return {"explanation": "⚠️ Failed to generate explanation.", "cached": False}
+        return {"explanation": "Failed to generate explanation.", "cached": False}
 
 @app.post("/explain-stream")
 async def explain_ayah_stream(req: ExplainRequest):
@@ -196,6 +196,9 @@ async def explain_ayah_stream(req: ExplainRequest):
             delays = entry["delays"] or []
 
             async def cached_gen():
+                yield "\n"
+                await asyncio.sleep(0)
+
                 pos = 0
                 for i, size in enumerate(chunks):
                     end = pos + size
@@ -212,6 +215,9 @@ async def explain_ayah_stream(req: ExplainRequest):
             text = entry["text"]
 
             async def fallback_gen():
+                yield "\n"
+                await asyncio.sleep(0)
+
                 chunk_size = 48
                 for i in range(0, len(text), chunk_size):
                     yield text[i:i+chunk_size]
@@ -223,40 +229,58 @@ async def explain_ayah_stream(req: ExplainRequest):
     system_guidelines, prompt = build_prompt(req)
 
     async def live_gen():
+        yield "\n"
+        await asyncio.sleep(0)
+
+        loop = asyncio.get_event_loop()
+        q: asyncio.Queue[Optional[str]] = asyncio.Queue()
+
         buffer_parts: List[str] = []
         chunk_sizes: List[int] = []
         delays: List[float] = []
 
-        last = pytime.perf_counter()
-        try:
-            stream = client.chat.completions.create(
-                model="gpt-4o",
-                messages=[
-                    {"role": "system", "content": system_guidelines},
-                    {"role": "user", "content": prompt},
-                ],
-                max_tokens=400,
-                temperature=0.4,
-                stream=True,
-            )
-            for chunk in stream:
-                now = pytime.perf_counter()
-                delays.append(max(0.0, now - last))
-                last = now
+        def producer():
+            import time as _t
+            last = _t.perf_counter()
+            try:
+                stream = client.chat.completions.create(
+                    model="gpt-4o",
+                    messages=[
+                        {"role": "system", "content": system_guidelines},
+                        {"role": "user", "content": prompt},
+                    ],
+                    max_tokens=400,
+                    temperature=0.4,
+                    stream=True,
+                )
+                for chunk in stream:
+                    now = _t.perf_counter()
+                    delays.append(max(0.0, now - last))
+                    last = now
 
-                delta = chunk.choices[0].delta
-                piece = getattr(delta, "content", None)
-                if piece:
-                    buffer_parts.append(piece)
-                    chunk_sizes.append(len(piece))
-                    yield piece
-        except Exception as e:
-            print("🔥 OpenAI STREAM ERROR:", e)
-            yield "\n\n[stream-error]"
-        finally:
-            text = "".join(buffer_parts).strip()
-            if text:
-                set_cached_entry(key, text, chunk_sizes, delays)
+                    delta = chunk.choices[0].delta
+                    piece = getattr(delta, "content", None)
+                    if piece:
+                        buffer_parts.append(piece)
+                        chunk_sizes.append(len(piece))
+                        asyncio.run_coroutine_threadsafe(q.put(piece), loop)
+            except Exception as e:
+                print("OpenAI STREAM ERROR:", e)
+                asyncio.run_coroutine_threadsafe(q.put("\n\n[stream-error]"), loop)
+            finally:
+                text = "".join(buffer_parts).strip()
+                if text:
+                    set_cached_entry(key, text, chunk_sizes, delays)
+                asyncio.run_coroutine_threadsafe(q.put(None), loop)
+
+        threading.Thread(target=producer, daemon=True).start()
+
+        while True:
+            piece = await q.get()
+            if piece is None:
+                break
+            yield piece
+            await asyncio.sleep(0)
 
     headers["X-Cache"] = "MISS" if not req.regenerate else "BYPASS-NEW"
     return StreamingResponse(live_gen(), media_type="text/plain; charset=utf-8", headers=headers)
