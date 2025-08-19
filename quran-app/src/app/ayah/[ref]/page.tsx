@@ -235,7 +235,7 @@ export default function AyahPage() {
 
       if (!res.ok) {
         const fallback = await res.text();
-        setExplanation(fallback || "⚠️ Error fetching explanation.");
+        setExplanation(fallback || "Error fetching explanation.");
         setLoading(false);
         return;
       }
@@ -267,7 +267,7 @@ export default function AyahPage() {
     } catch (err: any) {
       if (err?.name !== "AbortError") {
         console.error("stream error", err);
-        setExplanation((prev) => prev || "⚠️ Stream interrupted.");
+        setExplanation((prev) => prev || "Stream interrupted.");
       }
     } finally {
       setLoading(false);
