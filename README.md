@@ -4,6 +4,7 @@ Quranscope is a web application for exploring the Quran with search, themes, and
 
 ## Live Website
 [**https://quranscope.vercel.app**](https://quranscope.vercel.app/)
+
 ---
 
 ## Tech Stack
