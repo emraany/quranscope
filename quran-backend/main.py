@@ -1,4 +1,4 @@
-from fastapi import FastAPI, Response
+from fastapi import FastAPI, Response, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
 from pydantic import BaseModel
@@ -183,11 +183,18 @@ async def explain_ayah(req: ExplainRequest, response: Response):
         return {"explanation": "Failed to generate explanation.", "cached": False}
 
 @app.post("/explain-stream")
-async def explain_ayah_stream(req: ExplainRequest):
+async def explain_ayah_stream(req: ExplainRequest, request: Request):
     key = make_cache_key(req)
     headers = {"Cache-Control": "no-cache", "X-Accel-Buffering": "no"}
 
-    if not req.regenerate:
+    bypass = bool(req.regenerate) \
+        or request.headers.get("x-bypass-cache", "").lower() in {"1", "true", "yes"} \
+        or request.query_params.get("bypass", "").lower() in {"1", "true", "yes"}
+
+    headers["X-Bypass"] = "1" if bypass else "0"
+    headers["X-Cache-Key"] = key
+
+    if not bypass:
         entry = get_cached_entry(key)
         if entry and "chunks" in entry and "delays" in entry:
             headers["X-Cache"] = "HIT"
@@ -196,7 +203,7 @@ async def explain_ayah_stream(req: ExplainRequest):
             delays = entry["delays"] or []
 
             async def cached_gen():
-                yield "\n"
+                yield "\u200b"
                 await asyncio.sleep(0)
 
                 pos = 0
@@ -215,7 +222,7 @@ async def explain_ayah_stream(req: ExplainRequest):
             text = entry["text"]
 
             async def fallback_gen():
-                yield "\n"
+                yield "\u200b"
                 await asyncio.sleep(0)
 
                 chunk_size = 48
@@ -229,7 +236,7 @@ async def explain_ayah_stream(req: ExplainRequest):
     system_guidelines, prompt = build_prompt(req)
 
     async def live_gen():
-        yield "\n"
+        yield "\u200b"
         await asyncio.sleep(0)
 
         loop = asyncio.get_event_loop()
@@ -282,5 +289,5 @@ async def explain_ayah_stream(req: ExplainRequest):
             yield piece
             await asyncio.sleep(0)
 
-    headers["X-Cache"] = "MISS" if not req.regenerate else "BYPASS-NEW"
+    headers["X-Cache"] = "MISS" if not bypass else "BYPASS-NEW"
     return StreamingResponse(live_gen(), media_type="text/plain; charset=utf-8", headers=headers)
