@@ -16,12 +16,12 @@ export default function SlideToggle({
     <div
       role="tablist"
       aria-label="Search mode"
-      className="relative inline-flex rounded-full border border-gray-200 bg-white p-1 shadow-sm"
+      className="relative inline-flex rounded-full bg-gray-200/80 p-1 shadow-inner"
     >
       {/* Sliding indicator */}
       <div
   aria-hidden="true"
-  className="absolute inset-y-0.5 rounded-full bg-white shadow-sm ring-1 ring-black/5 transition-all duration-300 ease-out"
+  className="absolute rounded-full bg-white transition-all duration-300 ease-out inset-y-0.5"
   style={{
     left: `${activeIndex * pct}%`,
     width: `${pct}%`,
