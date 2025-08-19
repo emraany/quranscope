@@ -138,7 +138,6 @@ export default function AyahPage() {
     setTafsirHtml(null);
 
     try {
-      // Try per-surah formats located under /data/v2/tafsir/
       const candidates = [
         `${BASE}/tafsir/${surahId}.json`,
         `${BASE}/tafsir/${pad3(surahId)}.json`,
@@ -155,7 +154,6 @@ export default function AyahPage() {
         }
       }
 
-      // Fallback: legacy per-ayah path if someone has that layout locally
       if (!loaded) {
         const legacyUrl = `${BASE}/tafsir/en-tafsir-ibn-kathir/${surahId}/${ayahId}.json`;
         const legacy = await fetchJSON<TafsirPayload>(legacyUrl);
@@ -211,10 +209,16 @@ export default function AyahPage() {
     abortRef.current = controller;
 
     try {
-      const url = new URL("/explain-stream", API_BASE).toString();
-      const res = await fetch(url, {
+      const url = new URL("/explain-stream", API_BASE);
+      if (regenerate) url.searchParams.set("bypass", "1");
+      url.searchParams.set("t", String(Date.now()));
+      const res = await fetch(url.toString(), {
         method: "POST",
-        headers: { "Content-Type": "application/json", "Cache-Control": "no-cache" },
+        headers: {
+        "Content-Type": "application/json",
+        "Cache-Control": "no-cache",
+        ...(regenerate ? { "X-Bypass-Cache": "1" } : {}),
+      },
         body: JSON.stringify({
           surah: surahId,
           ayah: ayahId,
