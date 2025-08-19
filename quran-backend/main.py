@@ -178,7 +178,7 @@ async def explain_ayah(req: ExplainRequest, response: Response):
         response.headers["X-Cache"] = "MISS" if not req.regenerate else "BYPASS-NEW"
         return {"explanation": explanation, "cached": False}
     except Exception as e:
-        print("🔥 OpenAI ERROR:", e)
+        print("OpenAI ERROR:", e)
         response.headers["X-Cache"] = "BYPASS"
         return {"explanation": "Failed to generate explanation.", "cached": False}
 
