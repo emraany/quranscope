@@ -13,7 +13,7 @@ const scheherazade = Scheherazade_New({
 });
 
 export const metadata: Metadata = {
-  title: "Quranscope",
+  title: "QuranScope",
   description: "Search → click → explain (streaming)",
   icons: {
     icon: "/favicon.ico",
