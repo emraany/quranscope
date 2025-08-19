@@ -20,7 +20,7 @@ Quranscope is a web application for exploring the Quran with search, themes, and
 - FastAPI (Python)
 - AI explanations via OpenAI/Hugging Face models
 - Python scripts for data parsing
-- Hosted on Railway / Render
+- Hosted on Heroku
 
 ---
 
